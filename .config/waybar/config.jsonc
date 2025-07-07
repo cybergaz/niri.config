@@ -1,0 +1,204 @@
+{
+  "layer": "top",
+  "position": "top",
+  "width": 1700,
+  "margin-top": 4,
+  "gtk-layer-shell": true,
+  // "reload_style_on_change": true,
+  "fixed-center": true,
+  // "mode": "hide",
+  // "start-hidden": true,
+  // "height": 30,
+  // "spacing": 2,
+  "modules-left": [
+    "hyprland/workspaces",
+    "niri/workspaces",
+    // "niri/window",
+    "custom/player"
+  ],
+  "modules-center": [
+    "clock"
+  ],
+  "modules-right": [
+    "tray",
+    // "bluetooth",
+    // "idle_inhibitor",
+    "network",
+    "cpu",
+    // "temperature",
+    "memory",
+    "backlight",
+    "pulseaudio",
+    "battery",
+  ],
+  "hyprland/workspaces": {
+    "active-only": false,
+    "all-outputs": true,
+    "disable-scroll": true,
+    "format": "{name}",
+    "on-click": "activate",
+    // "show-special": true,
+    "sort-by-number": true
+    // "format-icons": {
+    //   "special": ""
+    //   // "active": "",
+    //   // "default": ""
+    // }
+  },
+  "niri/workspaces": {
+    "format": "{value}",
+    "format-icons": {
+      // Named workspaces
+      // (you need to configure them in niri)
+      "browser": "",
+      "discord": "",
+      "chat": "<b></b>",
+      // Icons by state
+      "active": "",
+      "default": ""
+    }
+  },
+  //
+  // "niri/window": {
+  //     "format": "{}",
+  //         "icon": true,
+  //     "rewrite": {
+  //         "(.*) - Mozilla Firefox": "🌎 $1",
+  //         "(.*) - fish": "> [$1]"
+  //     }
+  // },
+  "custom/player": {
+    "interval": 5,
+    "exec": "~/scripts/waybar/waybar_now_playing",
+    "format": "    {}",
+    "return-type": "json",
+    "max-length": 30,
+    "on-click": "~/scripts/waybar/waybar_now_playing play-pause",
+    "on-click-right": "~/scripts/waybar/waybar_now_playing next",
+    "on-click-middle": "~/scripts/waybar/waybar_now_playing previous"
+  },
+  // "bluetooth": {
+  //   "format": " {status}",
+  //   "format-connected": " {device_alias}",
+  //   "format-connected-battery": " {device_alias} {device_battery_percentage}%",
+  //   // "format-device-preference": [ "device1", "device2" ], // preference list deciding the displayed device
+  //   "tooltip-format": "{controller_alias}\t{controller_address}\n\n{num_connections} connected",
+  //   "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{num_connections} connected\n\n{device_enumerate}",
+  //   "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}",
+  //   "tooltip-format-enumerate-connected-battery": "{device_alias}\t{device_address}\t{device_battery_percentage}%"
+  // },
+  // "wlr/taskbar": {
+  //   "format": "{icon}",
+  //   "icon-size": 20,
+  //   "tooltip-format": "{title}",
+  //   "active-first": true,
+  //   "on-click": "activate",
+  //   "on-click-middle": "close",
+  //   "app_ids-mapping": {
+  //     "firefoxdeveloperedition": "firefox-developer-edition"
+  //   }
+  // },
+  "clock": {
+    "interval": 1,
+    "format": "{:%H:%M:%S  %a %d %B}",
+    "tooltip": false,
+    // "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+    "on-click": "$HOME/scripts/waybar/wallpapers_v2.sh",
+    "on-click-right": "alacritty -T fast -e fast"
+  },
+  "tray": {
+    "icon-size": 16,
+    "spacing": 12
+  },
+  "idle_inhibitor": {
+    "format": "{icon}",
+    "on-click": "$HOME/scripts/hyprland/hypridle_caffeine.sh",
+    "format-icons": {
+      "activated": " ☕ ",
+      "deactivated": " ☕ "
+    },
+    "tooltip": false,
+  },
+  "network": {
+    "interval": 2,
+    "format-wifi": "    {essid}  :  {bandwidthTotalBytes}",
+    "format-ethernet": " {essid}",
+    "format-linked": "{ifname} (No IP) ",
+    "format-disconnected": "! Disconnected",
+    "tooltip-format-wifi": "{signalStrength}% | ⬇ {bandwidthDownBits} ⬆ {bandwidthUpBits} | {ipaddr}/{cidr}",
+    // "on-click": "alacritty -t nmtui -e nmtui",
+    "on-click": "iwgtk",
+    "on-click-right": "~/scripts/warp_start.sh",
+    "on-click-middle": "~/scripts/warp_stop.sh"
+  },
+  "cpu": {
+    "interval": 6,
+    "format": "󰾆   {usage}",
+    "tooltip": true,
+    "on-click": "alacritty -t btop -e btop --utf-force"
+  },
+  "memory": {
+    "interval": 6,
+    "format": "󰍛   {used}"
+  },
+  "backlight": {
+    "device": "intel_backlight",
+    "tooltip": false,
+    "format": "{icon}  {percent}",
+    "format-icons": [
+      "🌌",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "🪩"
+    ],
+    "on-scroll-down": "brightnessctl set 1%+",
+    "on-scroll-up": "brightnessctl set 1%-",
+    "min-length": 5
+  },
+  "pulseaudio": {
+    "format": "{icon}  {volume}",
+    "tooltip": false,
+    "format-muted": "🔇 sssh..",
+    "on-click": "pavucontrol",
+    "scroll-step": 1,
+    "format-icons": {
+      "headphone": "🎐",
+      "hands-free": "🎐",
+      "headset": "🎐",
+      "phone": "📞",
+      "portable": "📞",
+      "car": "",
+      "default": [
+        "☁️",
+        "🌧️",
+        "🌨️",
+        "🌩️",
+        "⛈️"
+      ]
+    }
+  },
+  "battery": {
+    "interval": 5,
+    "states": {
+      "good": 95,
+      "warning": 20,
+      "critical": 10
+    },
+    "format": "{icon}     {capacity}",
+    "format-charging": "⚡    {capacity}",
+    "format-plugged": "⚡    {capacity}",
+    "format-alt": "{time}   {icon}",
+    "format-icons": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

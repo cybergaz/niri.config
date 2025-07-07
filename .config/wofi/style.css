@@ -1,0 +1,64 @@
+window {
+  background-color: transparent;
+  font-family: "Noto Sans";
+  /* font-weight: regular; */
+}
+
+#outer-box {
+  padding: 12px;
+  background-color: rgba(25, 25, 25, 0.96);
+  border-radius: 15px;
+  border: 2px solid rgba(79, 87, 87, 0.8);
+}
+
+#input {
+  font-size: 17px;
+  padding: 4px;
+  background-color: transparent;
+  border-radius: 10px;
+  box-shadow: none;
+}
+
+#input:focus {
+  color: white;
+}
+
+#input>image {
+  padding-left: 10px;
+  padding-right: 15px;
+  -gtk-icon-transform: scalex(1);
+}
+
+#inner-box {
+  color: #d6d6d6;
+  padding: 0px;
+  border-radius: 10px;
+}
+
+#text {
+  font-size: 16px;
+  color: #ffffff;
+  padding-left: 18px;
+}
+
+#text:selected {
+  color: #ffffff;
+}
+
+#scroll {
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+#entry {
+  /* important for that annoying border around selected entries */
+  color: transparent;
+  padding: 10px;
+  margin-bottom: 2px;
+  border-radius: 0px;
+}
+
+#entry:selected {
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 10px;
+}

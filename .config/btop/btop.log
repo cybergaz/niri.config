@@ -1,0 +1,2199 @@
+
+2024/01/30 (18:04:18) | ===> btop++ v.1.3.0
+2024/01/30 (18:04:18) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/01/30 (18:04:37) | ===> btop++ v.1.3.0
+2024/01/30 (18:04:37) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/03/03 (02:09:01) | ===> btop++ v.1.3.2
+2024/03/03 (02:09:01) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/03/03 (02:09:01) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2024/03/03 (02:09:26) | ===> btop++ v.1.3.2
+2024/03/03 (02:09:26) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/03/03 (02:09:26) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2024/03/12 (22:55:52) | ===> btop++ v.1.3.2
+2024/03/12 (22:55:52) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/03/12 (22:55:52) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2024/03/14 (22:19:23) | ===> btop++ v.1.3.2
+2024/03/14 (22:19:23) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/16 (22:17:09) | ===> btop++ v.1.3.2
+2024/07/16 (22:17:09) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/16 (22:17:20) | ===> btop++ v.1.3.2
+2024/07/16 (22:17:20) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/16 (22:17:29) | ===> btop++ v.1.3.2
+2024/07/16 (22:17:29) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/16 (22:18:26) | ===> btop++ v.1.3.2
+2024/07/16 (22:18:26) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/16 (22:18:40) | ===> btop++ v.1.3.2
+2024/07/16 (22:18:40) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/16 (22:19:03) | ===> btop++ v.1.3.2
+2024/07/16 (22:19:03) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/16 (22:19:06) | ===> btop++ v.1.3.2
+2024/07/16 (22:19:06) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/17 (02:35:37) | ===> btop++ v.1.3.2
+2024/07/17 (02:35:37) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/17 (02:35:42) | ===> btop++ v.1.3.2
+2024/07/17 (02:35:42) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/17 (03:23:15) | ===> btop++ v.1.3.2
+2024/07/17 (03:23:15) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/07/20 (18:40:45) | ===> btop++ v.1.3.2
+2024/07/20 (18:40:45) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/12/21 (00:09:28) | ===> btop++ v.1.4.0
+2024/12/21 (00:09:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (00:19:49) | ===> btop++ v.1.4.0
+2024/12/21 (00:19:49) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (00:19:52) | ===> btop++ v.1.4.0
+2024/12/21 (00:19:52) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (00:19:53) | ===> btop++ v.1.4.0
+2024/12/21 (00:19:53) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (00:19:57) | ===> btop++ v.1.4.0
+2024/12/21 (00:19:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (00:19:58) | ===> btop++ v.1.4.0
+2024/12/21 (00:19:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (01:36:44) | ===> btop++ v.1.4.0
+2024/12/21 (01:36:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (01:46:09) | ===> btop++ v.1.4.0
+2024/12/21 (01:46:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (01:53:14) | ===> btop++ v.1.4.0
+2024/12/21 (01:53:14) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (01:53:22) | ===> btop++ v.1.4.0
+2024/12/21 (01:53:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:30:01) | ===> btop++ v.1.4.0
+2024/12/21 (13:30:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:30:50) | ===> btop++ v.1.4.0
+2024/12/21 (13:30:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:30:58) | ===> btop++ v.1.4.0
+2024/12/21 (13:30:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:31:00) | ===> btop++ v.1.4.0
+2024/12/21 (13:31:00) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:31:02) | ===> btop++ v.1.4.0
+2024/12/21 (13:31:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:31:03) | ===> btop++ v.1.4.0
+2024/12/21 (13:31:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:31:08) | ===> btop++ v.1.4.0
+2024/12/21 (13:31:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:31:11) | ===> btop++ v.1.4.0
+2024/12/21 (13:31:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:31:13) | ===> btop++ v.1.4.0
+2024/12/21 (13:31:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:31:37) | ===> btop++ v.1.4.0
+2024/12/21 (13:31:37) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:31:54) | ===> btop++ v.1.4.0
+2024/12/21 (13:31:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:31:55) | ===> btop++ v.1.4.0
+2024/12/21 (13:31:55) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:32:30) | ===> btop++ v.1.4.0
+2024/12/21 (13:32:30) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:39:42) | ===> btop++ v.1.4.0
+2024/12/21 (13:39:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:42:11) | ===> btop++ v.1.4.0
+2024/12/21 (13:42:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:42:13) | ===> btop++ v.1.4.0
+2024/12/21 (13:42:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:42:31) | ===> btop++ v.1.4.0
+2024/12/21 (13:42:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:42:53) | ===> btop++ v.1.4.0
+2024/12/21 (13:42:53) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:44:19) | ===> btop++ v.1.4.0
+2024/12/21 (13:44:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:44:26) | ===> btop++ v.1.4.0
+2024/12/21 (13:44:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:44:27) | ===> btop++ v.1.4.0
+2024/12/21 (13:44:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:48:03) | ===> btop++ v.1.4.0
+2024/12/21 (13:48:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:48:07) | ===> btop++ v.1.4.0
+2024/12/21 (13:48:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (13:48:15) | ===> btop++ v.1.4.0
+2024/12/21 (13:48:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:09:43) | ===> btop++ v.1.4.0
+2024/12/21 (14:09:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:09:45) | ===> btop++ v.1.4.0
+2024/12/21 (14:09:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:09:57) | ===> btop++ v.1.4.0
+2024/12/21 (14:09:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:10:04) | ===> btop++ v.1.4.0
+2024/12/21 (14:10:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:10:22) | ===> btop++ v.1.4.0
+2024/12/21 (14:10:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:10:27) | ===> btop++ v.1.4.0
+2024/12/21 (14:10:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:11:06) | ===> btop++ v.1.4.0
+2024/12/21 (14:11:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:11:47) | ===> btop++ v.1.4.0
+2024/12/21 (14:11:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:11:53) | ===> btop++ v.1.4.0
+2024/12/21 (14:11:53) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:11:59) | ===> btop++ v.1.4.0
+2024/12/21 (14:11:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:12:04) | ===> btop++ v.1.4.0
+2024/12/21 (14:12:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:12:09) | ===> btop++ v.1.4.0
+2024/12/21 (14:12:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:12:16) | ===> btop++ v.1.4.0
+2024/12/21 (14:12:16) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:12:21) | ===> btop++ v.1.4.0
+2024/12/21 (14:12:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:12:31) | ===> btop++ v.1.4.0
+2024/12/21 (14:12:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:12:36) | ===> btop++ v.1.4.0
+2024/12/21 (14:12:36) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (14:12:41) | ===> btop++ v.1.4.0
+2024/12/21 (14:12:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (23:35:18) | ===> btop++ v.1.4.0
+2024/12/21 (23:35:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/21 (23:55:03) | ===> btop++ v.1.4.0
+2024/12/21 (23:55:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/23 (16:54:07) | ===> btop++ v.1.4.0
+2024/12/23 (16:54:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/23 (18:07:41) | ===> btop++ v.1.4.0
+2024/12/23 (18:07:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (01:49:37) | ===> btop++ v.1.4.0
+2024/12/24 (01:49:37) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (14:18:21) | ===> btop++ v.1.4.0
+2024/12/24 (14:18:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (20:17:28) | ===> btop++ v.1.4.0
+2024/12/24 (20:17:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (20:57:22) | ===> btop++ v.1.4.0
+2024/12/24 (20:57:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (20:57:46) | ===> btop++ v.1.4.0
+2024/12/24 (20:57:46) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (20:59:58) | ===> btop++ v.1.4.0
+2024/12/24 (20:59:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:15:16) | ===> btop++ v.1.4.0
+2024/12/24 (21:15:16) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:19:12) | ===> btop++ v.1.4.0
+2024/12/24 (21:19:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:44:12) | ===> btop++ v.1.4.0
+2024/12/24 (21:44:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:51:29) | ===> btop++ v.1.4.0
+2024/12/24 (21:51:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:53:09) | ===> btop++ v.1.4.0
+2024/12/24 (21:53:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:53:29) | ===> btop++ v.1.4.0
+2024/12/24 (21:53:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:54:06) | ===> btop++ v.1.4.0
+2024/12/24 (21:54:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:54:43) | ===> btop++ v.1.4.0
+2024/12/24 (21:54:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:55:07) | ===> btop++ v.1.4.0
+2024/12/24 (21:55:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:55:28) | ===> btop++ v.1.4.0
+2024/12/24 (21:55:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:56:36) | ===> btop++ v.1.4.0
+2024/12/24 (21:56:36) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:56:50) | ===> btop++ v.1.4.0
+2024/12/24 (21:56:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (21:58:02) | ===> btop++ v.1.4.0
+2024/12/24 (21:58:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (22:05:24) | ===> btop++ v.1.4.0
+2024/12/24 (22:05:24) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (22:06:03) | ===> btop++ v.1.4.0
+2024/12/24 (22:06:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (22:06:19) | ===> btop++ v.1.4.0
+2024/12/24 (22:06:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (22:06:49) | ===> btop++ v.1.4.0
+2024/12/24 (22:06:49) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (22:09:25) | ===> btop++ v.1.4.0
+2024/12/24 (22:09:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (22:11:13) | ===> btop++ v.1.4.0
+2024/12/24 (22:11:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/24 (22:52:06) | ===> btop++ v.1.4.0
+2024/12/24 (22:52:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (02:02:19) | ===> btop++ v.1.4.0
+2024/12/25 (02:02:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (02:04:15) | ===> btop++ v.1.4.0
+2024/12/25 (02:04:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (12:54:17) | ===> btop++ v.1.4.0
+2024/12/25 (12:54:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (12:55:13) | ===> btop++ v.1.4.0
+2024/12/25 (12:55:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (14:41:43) | ===> btop++ v.1.4.0
+2024/12/25 (14:41:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (17:07:39) | ===> btop++ v.1.4.0
+2024/12/25 (17:07:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (17:11:00) | ===> btop++ v.1.4.0
+2024/12/25 (17:11:00) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (19:08:48) | ===> btop++ v.1.4.0
+2024/12/25 (19:08:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (19:57:40) | ===> btop++ v.1.4.0
+2024/12/25 (19:57:40) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (22:02:56) | ===> btop++ v.1.4.0
+2024/12/25 (22:02:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (23:32:47) | ===> btop++ v.1.4.0
+2024/12/25 (23:32:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (23:33:22) | ===> btop++ v.1.4.0
+2024/12/25 (23:33:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (23:34:18) | ===> btop++ v.1.4.0
+2024/12/25 (23:34:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (23:34:58) | ===> btop++ v.1.4.0
+2024/12/25 (23:34:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (23:35:23) | ===> btop++ v.1.4.0
+2024/12/25 (23:35:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/25 (23:36:13) | ===> btop++ v.1.4.0
+2024/12/25 (23:36:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/26 (17:16:29) | ===> btop++ v.1.4.0
+2024/12/26 (17:16:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/26 (20:41:06) | ===> btop++ v.1.4.0
+2024/12/26 (20:41:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/26 (21:28:36) | ===> btop++ v.1.4.0
+2024/12/26 (21:28:36) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/26 (23:13:27) | ===> btop++ v.1.4.0
+2024/12/26 (23:13:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/26 (23:55:25) | ===> btop++ v.1.4.0
+2024/12/26 (23:55:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/27 (01:09:10) | ===> btop++ v.1.4.0
+2024/12/27 (01:09:10) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/27 (04:52:24) | ===> btop++ v.1.4.0
+2024/12/27 (04:52:24) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/27 (14:06:42) | ===> btop++ v.1.4.0
+2024/12/27 (14:06:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/27 (14:06:56) | ===> btop++ v.1.4.0
+2024/12/27 (14:06:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/27 (14:08:37) | ===> btop++ v.1.4.0
+2024/12/27 (14:08:37) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/27 (14:09:17) | ===> btop++ v.1.4.0
+2024/12/27 (14:09:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/28 (18:26:09) | ===> btop++ v.1.4.0
+2024/12/28 (18:26:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/28 (18:26:22) | ===> btop++ v.1.4.0
+2024/12/28 (18:26:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/28 (19:27:48) | ===> btop++ v.1.4.0
+2024/12/28 (19:27:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/28 (19:27:52) | ===> btop++ v.1.4.0
+2024/12/28 (19:27:52) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/28 (19:59:30) | ===> btop++ v.1.4.0
+2024/12/28 (19:59:30) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/28 (21:50:34) | ===> btop++ v.1.4.0
+2024/12/28 (21:50:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/29 (02:49:57) | ===> btop++ v.1.4.0
+2024/12/29 (02:49:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/29 (02:56:55) | ===> btop++ v.1.4.0
+2024/12/29 (02:56:55) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/29 (02:57:33) | ===> btop++ v.1.4.0
+2024/12/29 (02:57:33) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/29 (02:57:44) | ===> btop++ v.1.4.0
+2024/12/29 (02:57:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/29 (02:58:46) | ===> btop++ v.1.4.0
+2024/12/29 (02:58:46) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/29 (22:02:32) | ===> btop++ v.1.4.0
+2024/12/29 (22:02:32) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/29 (22:06:15) | ===> btop++ v.1.4.0
+2024/12/29 (22:06:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/29 (23:28:30) | ===> btop++ v.1.4.0
+2024/12/29 (23:28:30) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/30 (04:14:39) | ===> btop++ v.1.4.0
+2024/12/30 (04:14:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/30 (13:45:50) | ===> btop++ v.1.4.0
+2024/12/30 (13:45:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/31 (19:17:42) | ===> btop++ v.1.4.0
+2024/12/31 (19:17:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/01 (03:12:45) | ===> btop++ v.1.4.0
+2025/01/01 (03:12:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/01 (05:02:07) | ===> btop++ v.1.4.0
+2025/01/01 (05:02:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/01 (05:04:24) | ===> btop++ v.1.4.0
+2025/01/01 (05:04:24) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/01 (05:06:27) | ===> btop++ v.1.4.0
+2025/01/01 (05:06:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/01 (23:13:47) | ===> btop++ v.1.4.0
+2025/01/01 (23:13:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/03 (19:59:26) | ===> btop++ v.1.4.0
+2025/01/03 (19:59:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/03 (23:30:48) | ===> btop++ v.1.4.0
+2025/01/03 (23:30:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/05 (21:42:53) | ===> btop++ v.1.4.0
+2025/01/05 (21:42:53) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/05 (21:43:14) | ===> btop++ v.1.4.0
+2025/01/05 (21:43:14) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/05 (22:23:26) | ===> btop++ v.1.4.0
+2025/01/05 (22:23:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/05 (22:33:53) | ===> btop++ v.1.4.0
+2025/01/05 (22:33:53) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/05 (23:45:00) | ===> btop++ v.1.4.0
+2025/01/05 (23:45:00) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/06 (16:04:17) | ===> btop++ v.1.4.0
+2025/01/06 (16:04:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/06 (16:50:19) | ===> btop++ v.1.4.0
+2025/01/06 (16:50:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/06 (16:51:02) | ===> btop++ v.1.4.0
+2025/01/06 (16:51:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/06 (16:52:01) | ===> btop++ v.1.4.0
+2025/01/06 (16:52:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/06 (16:52:27) | ===> btop++ v.1.4.0
+2025/01/06 (16:52:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/06 (16:53:10) | ===> btop++ v.1.4.0
+2025/01/06 (16:53:10) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/10 (19:33:55) | ===> btop++ v.1.4.0
+2025/01/10 (19:33:55) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/10 (20:18:21) | ===> btop++ v.1.4.0
+2025/01/10 (20:18:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/11 (16:06:23) | ===> btop++ v.1.4.0
+2025/01/11 (16:06:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/13 (16:50:08) | ===> btop++ v.1.4.0
+2025/01/13 (16:50:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/14 (18:01:27) | ===> btop++ v.1.4.0
+2025/01/14 (18:01:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/14 (18:22:22) | ===> btop++ v.1.4.0
+2025/01/14 (18:22:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/14 (18:46:50) | ===> btop++ v.1.4.0
+2025/01/14 (18:46:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/15 (23:38:16) | ===> btop++ v.1.4.0
+2025/01/15 (23:38:16) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/15 (23:38:17) | ===> btop++ v.1.4.0
+2025/01/15 (23:38:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/16 (03:09:01) | ===> btop++ v.1.4.0
+2025/01/16 (03:09:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/16 (21:47:19) | ===> btop++ v.1.4.0
+2025/01/16 (21:47:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/16 (23:44:56) | ===> btop++ v.1.4.0
+2025/01/16 (23:44:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/16 (23:44:56) | ===> btop++ v.1.4.0
+2025/01/16 (23:44:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/16 (23:45:03) | ===> btop++ v.1.4.0
+2025/01/16 (23:45:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/16 (23:45:04) | ===> btop++ v.1.4.0
+2025/01/16 (23:45:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/16 (23:45:06) | ===> btop++ v.1.4.0
+2025/01/16 (23:45:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/16 (23:45:08) | ===> btop++ v.1.4.0
+2025/01/16 (23:45:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/17 (00:10:26) | ===> btop++ v.1.4.0
+2025/01/17 (00:10:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/17 (04:40:30) | ===> btop++ v.1.4.0
+2025/01/17 (04:40:30) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/18 (21:51:07) | ===> btop++ v.1.4.0
+2025/01/18 (21:51:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/18 (22:54:25) | ===> btop++ v.1.4.0
+2025/01/18 (22:54:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/19 (03:26:14) | ===> btop++ v.1.4.0
+2025/01/19 (03:26:14) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/20 (21:07:23) | ===> btop++ v.1.4.0
+2025/01/20 (21:07:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/20 (21:26:58) | ===> btop++ v.1.4.0
+2025/01/20 (21:26:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/21 (22:31:23) | ===> btop++ v.1.4.0
+2025/01/21 (22:31:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/22 (23:23:50) | ===> btop++ v.1.4.0
+2025/01/22 (23:23:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/24 (19:40:46) | ===> btop++ v.1.4.0
+2025/01/24 (19:40:46) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/27 (21:44:06) | ===> btop++ v.1.4.0
+2025/01/27 (21:44:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/28 (16:58:02) | ===> btop++ v.1.4.0
+2025/01/28 (16:58:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/28 (20:51:39) | ===> btop++ v.1.4.0
+2025/01/28 (20:51:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/28 (20:58:07) | ===> btop++ v.1.4.0
+2025/01/28 (20:58:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/29 (00:07:48) | ===> btop++ v.1.4.0
+2025/01/29 (00:07:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/01/30 (13:03:46) | ===> btop++ v.1.4.0
+2025/01/30 (13:03:46) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (00:25:51) | ===> btop++ v.1.4.0
+2025/02/01 (00:25:51) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (10:02:33) | ===> btop++ v.1.4.0
+2025/02/01 (10:02:33) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (10:53:31) | ===> btop++ v.1.4.0
+2025/02/01 (10:53:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (13:16:17) | ===> btop++ v.1.4.0
+2025/02/01 (13:16:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (13:41:10) | ===> btop++ v.1.4.0
+2025/02/01 (13:41:10) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (13:41:21) | ===> btop++ v.1.4.0
+2025/02/01 (13:41:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (13:41:38) | ===> btop++ v.1.4.0
+2025/02/01 (13:41:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (15:10:03) | ===> btop++ v.1.4.0
+2025/02/01 (15:10:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (18:36:49) | ===> btop++ v.1.4.0
+2025/02/01 (18:36:49) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (18:37:07) | ===> btop++ v.1.4.0
+2025/02/01 (18:37:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (18:44:45) | ===> btop++ v.1.4.0
+2025/02/01 (18:44:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (18:54:32) | ===> btop++ v.1.4.0
+2025/02/01 (18:54:32) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (18:54:38) | ===> btop++ v.1.4.0
+2025/02/01 (18:54:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (19:17:54) | ===> btop++ v.1.4.0
+2025/02/01 (19:17:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (19:18:05) | ===> btop++ v.1.4.0
+2025/02/01 (19:18:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (20:05:06) | ===> btop++ v.1.4.0
+2025/02/01 (20:05:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (21:58:43) | ===> btop++ v.1.4.0
+2025/02/01 (21:58:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/01 (21:58:54) | ===> btop++ v.1.4.0
+2025/02/01 (21:58:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/02 (21:58:26) | ===> btop++ v.1.4.0
+2025/02/02 (21:58:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/02 (22:01:54) | ===> btop++ v.1.4.0
+2025/02/02 (22:01:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/03 (11:44:56) | ===> btop++ v.1.4.0
+2025/02/03 (11:44:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/03 (23:05:21) | ===> btop++ v.1.4.0
+2025/02/03 (23:05:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/03 (23:05:38) | ===> btop++ v.1.4.0
+2025/02/03 (23:05:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/04 (01:04:55) | ===> btop++ v.1.4.0
+2025/02/04 (01:04:55) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/04 (04:49:31) | ===> btop++ v.1.4.0
+2025/02/04 (04:49:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/04 (05:11:53) | ===> btop++ v.1.4.0
+2025/02/04 (05:11:53) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/04 (05:22:39) | ===> btop++ v.1.4.0
+2025/02/04 (05:22:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/04 (15:47:05) | ===> btop++ v.1.4.0
+2025/02/04 (15:47:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:08:17) | ===> btop++ v.1.4.0
+2025/02/05 (02:08:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:14:40) | ===> btop++ v.1.4.0
+2025/02/05 (02:14:40) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:14:42) | ===> btop++ v.1.4.0
+2025/02/05 (02:14:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:15:04) | ===> btop++ v.1.4.0
+2025/02/05 (02:15:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:15:06) | ===> btop++ v.1.4.0
+2025/02/05 (02:15:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:15:07) | ===> btop++ v.1.4.0
+2025/02/05 (02:15:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:15:08) | ===> btop++ v.1.4.0
+2025/02/05 (02:15:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:15:11) | ===> btop++ v.1.4.0
+2025/02/05 (02:15:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:15:13) | ===> btop++ v.1.4.0
+2025/02/05 (02:15:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:15:14) | ===> btop++ v.1.4.0
+2025/02/05 (02:15:14) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (02:15:15) | ===> btop++ v.1.4.0
+2025/02/05 (02:15:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (03:36:14) | ===> btop++ v.1.4.0
+2025/02/05 (03:36:14) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (03:36:37) | ===> btop++ v.1.4.0
+2025/02/05 (03:36:37) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (21:14:20) | ===> btop++ v.1.4.0
+2025/02/05 (21:14:20) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (21:14:24) | ===> btop++ v.1.4.0
+2025/02/05 (21:14:24) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (21:14:29) | ===> btop++ v.1.4.0
+2025/02/05 (21:14:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (21:14:34) | ===> btop++ v.1.4.0
+2025/02/05 (21:14:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (22:25:22) | ===> btop++ v.1.4.0
+2025/02/05 (22:25:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (22:25:38) | ===> btop++ v.1.4.0
+2025/02/05 (22:25:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (22:25:43) | ===> btop++ v.1.4.0
+2025/02/05 (22:25:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (22:26:04) | ===> btop++ v.1.4.0
+2025/02/05 (22:26:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (22:26:19) | ===> btop++ v.1.4.0
+2025/02/05 (22:26:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/05 (22:27:13) | ===> btop++ v.1.4.0
+2025/02/05 (22:27:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/06 (03:47:30) | ===> btop++ v.1.4.0
+2025/02/06 (03:47:30) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/06 (03:48:59) | ===> btop++ v.1.4.0
+2025/02/06 (03:48:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/06 (03:50:05) | ===> btop++ v.1.4.0
+2025/02/06 (03:50:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/06 (03:50:22) | ===> btop++ v.1.4.0
+2025/02/06 (03:50:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/06 (03:50:39) | ===> btop++ v.1.4.0
+2025/02/06 (03:50:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/06 (21:06:06) | ===> btop++ v.1.4.0
+2025/02/06 (21:06:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/08 (18:51:05) | ===> btop++ v.1.4.0
+2025/02/08 (18:51:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/08 (19:03:21) | ===> btop++ v.1.4.0
+2025/02/08 (19:03:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/08 (20:01:34) | ===> btop++ v.1.4.0
+2025/02/08 (20:01:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/08 (20:01:54) | ===> btop++ v.1.4.0
+2025/02/08 (20:01:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/09 (22:43:24) | ===> btop++ v.1.4.0
+2025/02/09 (22:43:24) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/10 (04:07:23) | ===> btop++ v.1.4.0
+2025/02/10 (04:07:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/10 (19:11:03) | ===> btop++ v.1.4.0
+2025/02/10 (19:11:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/11 (02:52:09) | ===> btop++ v.1.4.0
+2025/02/11 (02:52:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/11 (03:27:04) | ===> btop++ v.1.4.0
+2025/02/11 (03:27:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/11 (03:28:30) | ===> btop++ v.1.4.0
+2025/02/11 (03:28:30) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/11 (22:34:33) | ===> btop++ v.1.4.0
+2025/02/11 (22:34:33) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/12 (20:49:08) | ===> btop++ v.1.4.0
+2025/02/12 (20:49:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/12 (20:53:51) | ===> btop++ v.1.4.0
+2025/02/12 (20:53:51) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/13 (04:08:45) | ===> btop++ v.1.4.0
+2025/02/13 (04:08:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/15 (17:43:38) | ===> btop++ v.1.4.0
+2025/02/15 (17:43:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/15 (17:46:32) | ===> btop++ v.1.4.0
+2025/02/15 (17:46:32) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/15 (18:06:36) | ===> btop++ v.1.4.0
+2025/02/15 (18:06:36) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/15 (18:18:35) | ===> btop++ v.1.4.0
+2025/02/15 (18:18:35) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/15 (18:24:44) | ===> btop++ v.1.4.0
+2025/02/15 (18:24:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/15 (18:25:23) | ===> btop++ v.1.4.0
+2025/02/15 (18:25:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/15 (18:25:59) | ===> btop++ v.1.4.0
+2025/02/15 (18:25:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/18 (00:15:31) | ===> btop++ v.1.4.0
+2025/02/18 (00:15:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/19 (14:59:47) | ===> btop++ v.1.4.0
+2025/02/19 (14:59:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/19 (20:23:00) | ===> btop++ v.1.4.0
+2025/02/19 (20:23:00) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/21 (15:51:40) | ===> btop++ v.1.4.0
+2025/02/21 (15:51:40) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/21 (17:14:47) | ===> btop++ v.1.4.0
+2025/02/21 (17:14:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/21 (17:14:55) | ===> btop++ v.1.4.0
+2025/02/21 (17:14:55) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/22 (02:59:42) | ===> btop++ v.1.4.0
+2025/02/22 (02:59:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/22 (13:05:05) | ===> btop++ v.1.4.0
+2025/02/22 (13:05:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/25 (05:25:01) | ===> btop++ v.1.4.0
+2025/02/25 (05:25:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/26 (02:01:42) | ===> btop++ v.1.4.0
+2025/02/26 (02:01:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/28 (07:26:43) | ===> btop++ v.1.4.0
+2025/02/28 (07:26:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/03 (15:16:34) | ===> btop++ v.1.4.0
+2025/03/03 (15:16:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/03 (19:46:16) | ===> btop++ v.1.4.0
+2025/03/03 (19:46:16) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/04 (23:10:50) | ===> btop++ v.1.4.0
+2025/03/04 (23:10:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/04 (23:54:08) | ===> btop++ v.1.4.0
+2025/03/04 (23:54:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/08 (05:58:09) | ===> btop++ v.1.4.0
+2025/03/08 (05:58:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/10 (00:04:57) | ===> btop++ v.1.4.0
+2025/03/10 (00:04:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/11 (02:41:42) | ===> btop++ v.1.4.0
+2025/03/11 (02:41:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/11 (18:46:48) | ===> btop++ v.1.4.0
+2025/03/11 (18:46:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/16 (02:23:20) | ===> btop++ v.1.4.0
+2025/03/16 (02:23:20) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/17 (13:15:56) | ===> btop++ v.1.4.0
+2025/03/17 (13:15:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/17 (23:16:45) | ===> btop++ v.1.4.0
+2025/03/17 (23:16:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/18 (00:08:54) | ===> btop++ v.1.4.0
+2025/03/18 (00:08:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/18 (00:09:03) | ===> btop++ v.1.4.0
+2025/03/18 (00:09:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/18 (13:12:11) | ===> btop++ v.1.4.0
+2025/03/18 (13:12:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/18 (13:40:44) | ===> btop++ v.1.4.0
+2025/03/18 (13:40:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/18 (20:39:11) | ===> btop++ v.1.4.0
+2025/03/18 (20:39:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/18 (21:42:21) | ===> btop++ v.1.4.0
+2025/03/18 (21:42:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/18 (21:44:59) | ===> btop++ v.1.4.0
+2025/03/18 (21:44:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/19 (01:30:54) | ===> btop++ v.1.4.0
+2025/03/19 (01:30:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/20 (00:16:04) | ===> btop++ v.1.4.0
+2025/03/20 (00:16:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/20 (00:37:04) | ===> btop++ v.1.4.0
+2025/03/20 (00:37:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/20 (00:38:02) | ===> btop++ v.1.4.0
+2025/03/20 (00:38:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/20 (11:55:41) | ===> btop++ v.1.4.0
+2025/03/20 (11:55:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/20 (11:56:01) | ===> btop++ v.1.4.0
+2025/03/20 (11:56:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/20 (17:30:45) | ===> btop++ v.1.4.0
+2025/03/20 (17:30:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/20 (17:30:49) | ===> btop++ v.1.4.0
+2025/03/20 (17:30:49) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/20 (17:31:24) | ===> btop++ v.1.4.0
+2025/03/20 (17:31:24) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/21 (11:02:13) | ===> btop++ v.1.4.0
+2025/03/21 (11:02:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/21 (12:39:22) | ===> btop++ v.1.4.0
+2025/03/21 (12:39:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/21 (16:02:53) | ===> btop++ v.1.4.0
+2025/03/21 (16:02:53) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/21 (23:08:36) | ===> btop++ v.1.4.0
+2025/03/21 (23:08:36) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/21 (23:08:45) | ===> btop++ v.1.4.0
+2025/03/21 (23:08:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/22 (01:57:05) | ===> btop++ v.1.4.0
+2025/03/22 (01:57:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/22 (01:57:09) | ===> btop++ v.1.4.0
+2025/03/22 (01:57:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/22 (13:44:26) | ===> btop++ v.1.4.0
+2025/03/22 (13:44:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/22 (16:36:56) | ===> btop++ v.1.4.0
+2025/03/22 (16:36:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/22 (18:08:50) | ===> btop++ v.1.4.0
+2025/03/22 (18:08:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/23 (05:42:25) | ===> btop++ v.1.4.0
+2025/03/23 (05:42:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/23 (16:21:28) | ===> btop++ v.1.4.0
+2025/03/23 (16:21:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/23 (16:21:59) | ===> btop++ v.1.4.0
+2025/03/23 (16:21:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/23 (16:22:08) | ===> btop++ v.1.4.0
+2025/03/23 (16:22:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/23 (23:44:25) | ===> btop++ v.1.4.0
+2025/03/23 (23:44:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/23 (23:44:28) | ===> btop++ v.1.4.0
+2025/03/23 (23:44:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/23 (23:47:38) | ===> btop++ v.1.4.0
+2025/03/23 (23:47:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/24 (01:39:22) | ===> btop++ v.1.4.0
+2025/03/24 (01:39:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/24 (11:30:47) | ===> btop++ v.1.4.0
+2025/03/24 (11:30:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/24 (19:31:27) | ===> btop++ v.1.4.0
+2025/03/24 (19:31:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/24 (22:49:45) | ===> btop++ v.1.4.0
+2025/03/24 (22:49:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/24 (23:45:44) | ===> btop++ v.1.4.0
+2025/03/24 (23:45:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/25 (00:35:28) | ===> btop++ v.1.4.0
+2025/03/25 (00:35:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/25 (13:26:44) | ===> btop++ v.1.4.0
+2025/03/25 (13:26:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/25 (16:48:01) | ===> btop++ v.1.4.0
+2025/03/25 (16:48:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/25 (17:19:37) | ===> btop++ v.1.4.0
+2025/03/25 (17:19:37) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/26 (11:55:22) | ===> btop++ v.1.4.0
+2025/03/26 (11:55:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/26 (16:51:32) | ===> btop++ v.1.4.0
+2025/03/26 (16:51:32) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/27 (17:06:31) | ===> btop++ v.1.4.0
+2025/03/27 (17:06:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/28 (12:56:11) | ===> btop++ v.1.4.0
+2025/03/28 (12:56:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/28 (12:56:34) | ===> btop++ v.1.4.0
+2025/03/28 (12:56:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/28 (20:25:15) | ===> btop++ v.1.4.0
+2025/03/28 (20:25:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/28 (20:25:15) | ===> btop++ v.1.4.0
+2025/03/28 (20:25:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/28 (22:22:06) | ===> btop++ v.1.4.0
+2025/03/28 (22:22:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/28 (23:16:59) | ===> btop++ v.1.4.0
+2025/03/28 (23:16:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/29 (23:13:09) | ===> btop++ v.1.4.0
+2025/03/29 (23:13:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/29 (23:19:08) | ===> btop++ v.1.4.0
+2025/03/29 (23:19:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/30 (18:47:27) | ===> btop++ v.1.4.0
+2025/03/30 (18:47:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (01:28:44) | ===> btop++ v.1.4.0
+2025/03/31 (01:28:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (01:29:03) | ===> btop++ v.1.4.0
+2025/03/31 (01:29:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (01:29:04) | ===> btop++ v.1.4.0
+2025/03/31 (01:29:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (01:30:19) | ===> btop++ v.1.4.0
+2025/03/31 (01:30:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (01:30:28) | ===> btop++ v.1.4.0
+2025/03/31 (01:30:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (01:32:48) | ===> btop++ v.1.4.0
+2025/03/31 (01:32:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (16:38:47) | ===> btop++ v.1.4.0
+2025/03/31 (16:38:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (16:39:20) | ===> btop++ v.1.4.0
+2025/03/31 (16:39:20) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (16:50:08) | ===> btop++ v.1.4.0
+2025/03/31 (16:50:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (16:53:05) | ===> btop++ v.1.4.0
+2025/03/31 (16:53:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (18:59:28) | ===> btop++ v.1.4.0
+2025/03/31 (18:59:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (22:02:53) | ===> btop++ v.1.4.0
+2025/03/31 (22:02:53) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (22:31:31) | ===> btop++ v.1.4.0
+2025/03/31 (22:31:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (23:36:05) | ===> btop++ v.1.4.0
+2025/03/31 (23:36:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/31 (23:57:45) | ===> btop++ v.1.4.0
+2025/03/31 (23:57:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/01 (22:29:15) | ===> btop++ v.1.4.0
+2025/04/01 (22:29:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/01 (22:29:48) | ===> btop++ v.1.4.0
+2025/04/01 (22:29:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/01 (22:29:56) | ===> btop++ v.1.4.0
+2025/04/01 (22:29:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/01 (22:29:58) | ===> btop++ v.1.4.0
+2025/04/01 (22:29:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/01 (22:29:59) | ===> btop++ v.1.4.0
+2025/04/01 (22:29:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/01 (22:41:17) | ===> btop++ v.1.4.0
+2025/04/01 (22:41:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/01 (22:51:29) | ===> btop++ v.1.4.0
+2025/04/01 (22:51:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/01 (23:04:11) | ===> btop++ v.1.4.0
+2025/04/01 (23:04:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (00:24:31) | ===> btop++ v.1.4.0
+2025/04/02 (00:24:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (00:37:04) | ===> btop++ v.1.4.0
+2025/04/02 (00:37:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (01:14:20) | ===> btop++ v.1.4.0
+2025/04/02 (01:14:20) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:24:42) | ===> btop++ v.1.4.0
+2025/04/02 (02:24:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:24:48) | ===> btop++ v.1.4.0
+2025/04/02 (02:24:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:33:03) | ===> btop++ v.1.4.0
+2025/04/02 (02:33:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:36:43) | ===> btop++ v.1.4.0
+2025/04/02 (02:36:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:37:32) | ===> btop++ v.1.4.0
+2025/04/02 (02:37:32) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:38:01) | ===> btop++ v.1.4.0
+2025/04/02 (02:38:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:38:05) | ===> btop++ v.1.4.0
+2025/04/02 (02:38:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:40:22) | ===> btop++ v.1.4.0
+2025/04/02 (02:40:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:40:23) | ===> btop++ v.1.4.0
+2025/04/02 (02:40:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:40:59) | ===> btop++ v.1.4.0
+2025/04/02 (02:40:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:41:01) | ===> btop++ v.1.4.0
+2025/04/02 (02:41:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:41:02) | ===> btop++ v.1.4.0
+2025/04/02 (02:41:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:41:41) | ===> btop++ v.1.4.0
+2025/04/02 (02:41:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:41:51) | ===> btop++ v.1.4.0
+2025/04/02 (02:41:51) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:41:56) | ===> btop++ v.1.4.0
+2025/04/02 (02:41:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:41:57) | ===> btop++ v.1.4.0
+2025/04/02 (02:41:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:05) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:18) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:19) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:20) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:20) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:24) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:24) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:25) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:28) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:31) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:31) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:33) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:33) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:42) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:44) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:42:46) | ===> btop++ v.1.4.0
+2025/04/02 (02:42:46) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (02:46:12) | ===> btop++ v.1.4.0
+2025/04/02 (02:46:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (13:12:09) | ===> btop++ v.1.4.0
+2025/04/02 (13:12:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (13:15:21) | ===> btop++ v.1.4.0
+2025/04/02 (13:15:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (16:23:20) | ===> btop++ v.1.4.0
+2025/04/02 (16:23:20) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (23:31:54) | ===> btop++ v.1.4.0
+2025/04/02 (23:31:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (23:31:57) | ===> btop++ v.1.4.0
+2025/04/02 (23:31:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (23:32:02) | ===> btop++ v.1.4.0
+2025/04/02 (23:32:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (23:32:06) | ===> btop++ v.1.4.0
+2025/04/02 (23:32:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (23:32:08) | ===> btop++ v.1.4.0
+2025/04/02 (23:32:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (23:32:13) | ===> btop++ v.1.4.0
+2025/04/02 (23:32:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/02 (23:57:27) | ===> btop++ v.1.4.0
+2025/04/02 (23:57:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (13:13:58) | ===> btop++ v.1.4.0
+2025/04/03 (13:13:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (16:05:49) | ===> btop++ v.1.4.0
+2025/04/03 (16:05:49) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (16:14:12) | ===> btop++ v.1.4.0
+2025/04/03 (16:14:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (19:23:54) | ===> btop++ v.1.4.0
+2025/04/03 (19:23:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:25:55) | ===> btop++ v.1.4.0
+2025/04/03 (21:25:55) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:43:56) | ===> btop++ v.1.4.0
+2025/04/03 (21:43:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:44:17) | ===> btop++ v.1.4.0
+2025/04/03 (21:44:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:44:30) | ===> btop++ v.1.4.0
+2025/04/03 (21:44:30) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:44:34) | ===> btop++ v.1.4.0
+2025/04/03 (21:44:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:44:41) | ===> btop++ v.1.4.0
+2025/04/03 (21:44:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:44:47) | ===> btop++ v.1.4.0
+2025/04/03 (21:44:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:44:48) | ===> btop++ v.1.4.0
+2025/04/03 (21:44:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:44:54) | ===> btop++ v.1.4.0
+2025/04/03 (21:44:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:45:02) | ===> btop++ v.1.4.0
+2025/04/03 (21:45:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:45:09) | ===> btop++ v.1.4.0
+2025/04/03 (21:45:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:45:17) | ===> btop++ v.1.4.0
+2025/04/03 (21:45:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:45:23) | ===> btop++ v.1.4.0
+2025/04/03 (21:45:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:45:29) | ===> btop++ v.1.4.0
+2025/04/03 (21:45:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:45:34) | ===> btop++ v.1.4.0
+2025/04/03 (21:45:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:45:39) | ===> btop++ v.1.4.0
+2025/04/03 (21:45:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:45:49) | ===> btop++ v.1.4.0
+2025/04/03 (21:45:49) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:45:55) | ===> btop++ v.1.4.0
+2025/04/03 (21:45:55) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:46:01) | ===> btop++ v.1.4.0
+2025/04/03 (21:46:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:46:08) | ===> btop++ v.1.4.0
+2025/04/03 (21:46:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:46:14) | ===> btop++ v.1.4.0
+2025/04/03 (21:46:14) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (21:46:29) | ===> btop++ v.1.4.0
+2025/04/03 (21:46:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (22:41:49) | ===> btop++ v.1.4.0
+2025/04/03 (22:41:49) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/03 (22:56:19) | ===> btop++ v.1.4.0
+2025/04/03 (22:56:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/04 (03:26:35) | ===> btop++ v.1.4.0
+2025/04/04 (03:26:35) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/04 (03:39:49) | ===> btop++ v.1.4.0
+2025/04/04 (03:39:49) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/04 (12:46:47) | ===> btop++ v.1.4.0
+2025/04/04 (12:46:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/04 (22:55:03) | ===> btop++ v.1.4.0
+2025/04/04 (22:55:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (00:16:05) | ===> btop++ v.1.4.0
+2025/04/05 (00:16:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:15:14) | ===> btop++ v.1.4.0
+2025/04/05 (18:15:14) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:15:19) | ===> btop++ v.1.4.0
+2025/04/05 (18:15:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:15:21) | ===> btop++ v.1.4.0
+2025/04/05 (18:15:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:15:22) | ===> btop++ v.1.4.0
+2025/04/05 (18:15:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:15:23) | ===> btop++ v.1.4.0
+2025/04/05 (18:15:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:15:24) | ===> btop++ v.1.4.0
+2025/04/05 (18:15:24) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:15:26) | ===> btop++ v.1.4.0
+2025/04/05 (18:15:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:15:29) | ===> btop++ v.1.4.0
+2025/04/05 (18:15:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:15:36) | ===> btop++ v.1.4.0
+2025/04/05 (18:15:36) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:16:13) | ===> btop++ v.1.4.0
+2025/04/05 (18:16:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:16:19) | ===> btop++ v.1.4.0
+2025/04/05 (18:16:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:16:20) | ===> btop++ v.1.4.0
+2025/04/05 (18:16:20) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:16:38) | ===> btop++ v.1.4.0
+2025/04/05 (18:16:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:17:30) | ===> btop++ v.1.4.0
+2025/04/05 (18:17:30) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:17:57) | ===> btop++ v.1.4.0
+2025/04/05 (18:17:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:14) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:14) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:40) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:40) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:41) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:42) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:43) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:44) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:45) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:46) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:46) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:47) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:54) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:55) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:55) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:18:59) | ===> btop++ v.1.4.0
+2025/04/05 (18:18:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:19:09) | ===> btop++ v.1.4.0
+2025/04/05 (18:19:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:19:13) | ===> btop++ v.1.4.0
+2025/04/05 (18:19:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:19:25) | ===> btop++ v.1.4.0
+2025/04/05 (18:19:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:19:57) | ===> btop++ v.1.4.0
+2025/04/05 (18:19:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:02) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:04) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:07) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:08) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:09) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:09) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:10) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:10) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:10) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:10) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:12) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:13) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:14) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:14) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:16) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:16) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:18) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:28) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:32) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:32) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:35) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:35) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:36) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:36) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:39) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:43) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:45) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:20:48) | ===> btop++ v.1.4.0
+2025/04/05 (18:20:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:21:02) | ===> btop++ v.1.4.0
+2025/04/05 (18:21:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:21:04) | ===> btop++ v.1.4.0
+2025/04/05 (18:21:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:21:06) | ===> btop++ v.1.4.0
+2025/04/05 (18:21:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:21:39) | ===> btop++ v.1.4.0
+2025/04/05 (18:21:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:21:40) | ===> btop++ v.1.4.0
+2025/04/05 (18:21:40) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:21:46) | ===> btop++ v.1.4.0
+2025/04/05 (18:21:46) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:21:50) | ===> btop++ v.1.4.0
+2025/04/05 (18:21:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:21:54) | ===> btop++ v.1.4.0
+2025/04/05 (18:21:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:21:57) | ===> btop++ v.1.4.0
+2025/04/05 (18:21:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:22:00) | ===> btop++ v.1.4.0
+2025/04/05 (18:22:00) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/05 (18:22:02) | ===> btop++ v.1.4.0
+2025/04/05 (18:22:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/06 (00:34:35) | ===> btop++ v.1.4.0
+2025/04/06 (00:34:35) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/06 (00:48:52) | ===> btop++ v.1.4.0
+2025/04/06 (00:48:52) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/06 (06:08:31) | ===> btop++ v.1.4.0
+2025/04/06 (06:08:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/06 (22:44:51) | ===> btop++ v.1.4.0
+2025/04/06 (22:44:51) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/06 (23:12:17) | ===> btop++ v.1.4.0
+2025/04/06 (23:12:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/06 (23:20:59) | ===> btop++ v.1.4.0
+2025/04/06 (23:20:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/06 (23:27:48) | ===> btop++ v.1.4.0
+2025/04/06 (23:27:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (01:45:37) | ===> btop++ v.1.4.0
+2025/04/07 (01:45:37) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (01:45:48) | ===> btop++ v.1.4.0
+2025/04/07 (01:45:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (10:49:31) | ===> btop++ v.1.4.0
+2025/04/07 (10:49:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (12:56:42) | ===> btop++ v.1.4.0
+2025/04/07 (12:56:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (12:57:03) | ===> btop++ v.1.4.0
+2025/04/07 (12:57:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (13:15:48) | ===> btop++ v.1.4.0
+2025/04/07 (13:15:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (18:53:46) | ===> btop++ v.1.4.0
+2025/04/07 (18:53:46) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (19:05:34) | ===> btop++ v.1.4.0
+2025/04/07 (19:05:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (19:06:07) | ===> btop++ v.1.4.0
+2025/04/07 (19:06:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (19:06:19) | ===> btop++ v.1.4.0
+2025/04/07 (19:06:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (19:10:31) | ===> btop++ v.1.4.0
+2025/04/07 (19:10:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (19:21:52) | ===> btop++ v.1.4.0
+2025/04/07 (19:21:52) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/07 (19:54:11) | ===> btop++ v.1.4.0
+2025/04/07 (19:54:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (16:17:21) | ===> btop++ v.1.4.0
+2025/04/08 (16:17:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (16:59:59) | ===> btop++ v.1.4.0
+2025/04/08 (16:59:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:10:00) | ===> btop++ v.1.4.0
+2025/04/08 (17:10:00) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:24:15) | ===> btop++ v.1.4.0
+2025/04/08 (17:24:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:35:57) | ===> btop++ v.1.4.0
+2025/04/08 (17:35:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:50:50) | ===> btop++ v.1.4.0
+2025/04/08 (17:50:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:52:52) | ===> btop++ v.1.4.0
+2025/04/08 (17:52:52) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:53:03) | ===> btop++ v.1.4.0
+2025/04/08 (17:53:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:53:10) | ===> btop++ v.1.4.0
+2025/04/08 (17:53:10) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:53:20) | ===> btop++ v.1.4.0
+2025/04/08 (17:53:20) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:53:23) | ===> btop++ v.1.4.0
+2025/04/08 (17:53:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:53:39) | ===> btop++ v.1.4.0
+2025/04/08 (17:53:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/08 (17:54:53) | ===> btop++ v.1.4.0
+2025/04/08 (17:54:53) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/09 (17:47:11) | ===> btop++ v.1.4.0
+2025/04/09 (17:47:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/10 (02:00:13) | ===> btop++ v.1.4.0
+2025/04/10 (02:00:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/10 (16:19:19) | ===> btop++ v.1.4.0
+2025/04/10 (16:19:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/10 (23:26:40) | ===> btop++ v.1.4.0
+2025/04/10 (23:26:40) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/11 (12:58:12) | ===> btop++ v.1.4.0
+2025/04/11 (12:58:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/11 (13:15:42) | ===> btop++ v.1.4.0
+2025/04/11 (13:15:42) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (04:12:28) | ===> btop++ v.1.4.0
+2025/04/12 (04:12:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (08:10:51) | ===> btop++ v.1.4.0
+2025/04/12 (08:10:51) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (15:35:27) | ===> btop++ v.1.4.0
+2025/04/12 (15:35:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (17:40:58) | ===> btop++ v.1.4.0
+2025/04/12 (17:40:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (20:30:22) | ===> btop++ v.1.4.0
+2025/04/12 (20:30:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (21:21:25) | ===> btop++ v.1.4.0
+2025/04/12 (21:21:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (21:23:54) | ===> btop++ v.1.4.0
+2025/04/12 (21:23:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (21:24:31) | ===> btop++ v.1.4.0
+2025/04/12 (21:24:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (21:25:04) | ===> btop++ v.1.4.0
+2025/04/12 (21:25:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (21:25:21) | ===> btop++ v.1.4.0
+2025/04/12 (21:25:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (21:25:35) | ===> btop++ v.1.4.0
+2025/04/12 (21:25:35) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (21:26:01) | ===> btop++ v.1.4.0
+2025/04/12 (21:26:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (21:31:25) | ===> btop++ v.1.4.0
+2025/04/12 (21:31:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/12 (21:54:02) | ===> btop++ v.1.4.0
+2025/04/12 (21:54:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/14 (02:32:22) | ===> btop++ v.1.4.0
+2025/04/14 (02:32:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/14 (05:59:59) | ===> btop++ v.1.4.0
+2025/04/14 (05:59:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/14 (12:47:23) | ===> btop++ v.1.4.0
+2025/04/14 (12:47:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/14 (18:06:21) | ===> btop++ v.1.4.0
+2025/04/14 (18:06:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/14 (18:06:58) | ===> btop++ v.1.4.0
+2025/04/14 (18:06:58) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/14 (18:07:03) | ===> btop++ v.1.4.0
+2025/04/14 (18:07:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/14 (18:07:08) | ===> btop++ v.1.4.0
+2025/04/14 (18:07:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/15 (15:37:15) | ===> btop++ v.1.4.0
+2025/04/15 (15:37:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/15 (15:37:19) | ===> btop++ v.1.4.0
+2025/04/15 (15:37:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/15 (15:37:30) | ===> btop++ v.1.4.0
+2025/04/15 (15:37:30) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/15 (15:37:31) | ===> btop++ v.1.4.0
+2025/04/15 (15:37:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/16 (02:47:31) | ===> btop++ v.1.4.0
+2025/04/16 (02:47:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/16 (13:46:31) | ===> btop++ v.1.4.0
+2025/04/16 (13:46:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/16 (18:48:56) | ===> btop++ v.1.4.0
+2025/04/16 (18:48:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/17 (07:54:19) | ===> btop++ v.1.4.0
+2025/04/17 (07:54:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/17 (11:26:04) | ===> btop++ v.1.4.0
+2025/04/17 (11:26:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/17 (21:48:03) | ===> btop++ v.1.4.0
+2025/04/17 (21:48:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/19 (00:06:18) | ===> btop++ v.1.4.0
+2025/04/19 (00:06:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/19 (00:47:17) | ===> btop++ v.1.4.0
+2025/04/19 (00:47:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/19 (00:47:21) | ===> btop++ v.1.4.0
+2025/04/19 (00:47:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/20 (00:38:19) | ===> btop++ v.1.4.0
+2025/04/20 (00:38:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/21 (14:05:31) | ===> btop++ v.1.4.0
+2025/04/21 (14:05:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/21 (19:07:28) | ===> btop++ v.1.4.0
+2025/04/21 (19:07:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/21 (19:35:48) | ===> btop++ v.1.4.0
+2025/04/21 (19:35:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/23 (12:16:10) | ===> btop++ v.1.4.0
+2025/04/23 (12:16:10) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/23 (21:54:57) | ===> btop++ v.1.4.0
+2025/04/23 (21:54:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/23 (22:37:13) | ===> btop++ v.1.4.0
+2025/04/23 (22:37:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/23 (23:19:09) | ===> btop++ v.1.4.0
+2025/04/23 (23:19:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/23 (23:19:29) | ===> btop++ v.1.4.0
+2025/04/23 (23:19:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/24 (04:46:38) | ===> btop++ v.1.4.0
+2025/04/24 (04:46:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/24 (05:03:38) | ===> btop++ v.1.4.0
+2025/04/24 (05:03:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/24 (11:53:19) | ===> btop++ v.1.4.0
+2025/04/24 (11:53:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/25 (14:31:27) | ===> btop++ v.1.4.0
+2025/04/25 (14:31:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/25 (14:43:16) | ===> btop++ v.1.4.0
+2025/04/25 (14:43:16) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/25 (16:13:26) | ===> btop++ v.1.4.0
+2025/04/25 (16:13:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/28 (00:59:25) | ===> btop++ v.1.4.0
+2025/04/28 (00:59:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/04/30 (13:54:03) | ===> btop++ v.1.4.0
+2025/04/30 (13:54:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/01 (02:28:34) | ===> btop++ v.1.4.0
+2025/05/01 (02:28:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/01 (14:34:39) | ===> btop++ v.1.4.0
+2025/05/01 (14:34:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/01 (14:43:01) | ===> btop++ v.1.4.0
+2025/05/01 (14:43:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/01 (14:44:03) | ===> btop++ v.1.4.0
+2025/05/01 (14:44:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/01 (16:17:18) | ===> btop++ v.1.4.0
+2025/05/01 (16:17:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/01 (16:39:20) | ===> btop++ v.1.4.0
+2025/05/01 (16:39:20) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/02 (11:35:23) | ===> btop++ v.1.4.0
+2025/05/02 (11:35:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/02 (11:58:37) | ===> btop++ v.1.4.0
+2025/05/02 (11:58:37) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/02 (13:33:45) | ===> btop++ v.1.4.0
+2025/05/02 (13:33:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/03 (17:31:54) | ===> btop++ v.1.4.0
+2025/05/03 (17:31:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/03 (17:46:18) | ===> btop++ v.1.4.0
+2025/05/03 (17:46:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/03 (17:46:21) | ===> btop++ v.1.4.0
+2025/05/03 (17:46:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/03 (17:46:22) | ===> btop++ v.1.4.0
+2025/05/03 (17:46:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/03 (20:19:51) | ===> btop++ v.1.4.0
+2025/05/03 (20:19:51) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/03 (20:20:05) | ===> btop++ v.1.4.0
+2025/05/03 (20:20:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/03 (20:20:47) | ===> btop++ v.1.4.0
+2025/05/03 (20:20:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/03 (20:20:57) | ===> btop++ v.1.4.0
+2025/05/03 (20:20:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/04 (14:05:40) | ===> btop++ v.1.4.0
+2025/05/04 (14:05:40) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/04 (15:36:00) | ===> btop++ v.1.4.0
+2025/05/04 (15:36:00) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/05 (00:00:18) | ===> btop++ v.1.4.0
+2025/05/05 (00:00:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/05 (01:40:47) | ===> btop++ v.1.4.0
+2025/05/05 (01:40:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/05 (01:40:52) | ===> btop++ v.1.4.0
+2025/05/05 (01:40:52) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/05 (11:28:52) | ===> btop++ v.1.4.0
+2025/05/05 (11:28:52) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/05 (15:21:29) | ===> btop++ v.1.4.0
+2025/05/05 (15:21:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/05 (15:35:03) | ===> btop++ v.1.4.0
+2025/05/05 (15:35:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/05 (17:54:56) | ===> btop++ v.1.4.0
+2025/05/05 (17:54:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/05 (22:59:32) | ===> btop++ v.1.4.0
+2025/05/05 (22:59:32) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/06 (13:48:32) | ===> btop++ v.1.4.0
+2025/05/06 (13:48:32) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/09 (01:42:35) | ===> btop++ v.1.4.0
+2025/05/09 (01:42:35) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/09 (01:43:26) | ===> btop++ v.1.4.0
+2025/05/09 (01:43:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/10 (14:19:47) | ===> btop++ v.1.4.0
+2025/05/10 (14:19:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/11 (00:36:51) | ===> btop++ v.1.4.0
+2025/05/11 (00:36:51) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/11 (01:07:38) | ===> btop++ v.1.4.0
+2025/05/11 (01:07:38) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/11 (14:13:01) | ===> btop++ v.1.4.0
+2025/05/11 (14:13:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/12 (11:33:36) | ===> btop++ v.1.4.0
+2025/05/12 (11:33:36) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/12 (18:01:12) | ===> btop++ v.1.4.0
+2025/05/12 (18:01:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/12 (18:11:57) | ===> btop++ v.1.4.0
+2025/05/12 (18:11:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/14 (15:47:09) | ===> btop++ v.1.4.0
+2025/05/14 (15:47:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/14 (15:47:09) | ===> btop++ v.1.4.0
+2025/05/14 (15:47:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/15 (15:11:27) | ===> btop++ v.1.4.0
+2025/05/15 (15:11:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/16 (01:39:08) | ===> btop++ v.1.4.0
+2025/05/16 (01:39:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/16 (01:58:49) | ===> btop++ v.1.4.0
+2025/05/16 (01:58:49) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/16 (02:14:22) | ===> btop++ v.1.4.0
+2025/05/16 (02:14:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/16 (13:51:47) | ===> btop++ v.1.4.0
+2025/05/16 (13:51:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/16 (19:06:26) | ===> btop++ v.1.4.0
+2025/05/16 (19:06:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/16 (19:28:10) | ===> btop++ v.1.4.0
+2025/05/16 (19:28:10) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (12:32:47) | ===> btop++ v.1.4.0
+2025/05/20 (12:32:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (17:41:15) | ===> btop++ v.1.4.0
+2025/05/20 (17:41:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (17:43:18) | ===> btop++ v.1.4.0
+2025/05/20 (17:43:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (17:46:28) | ===> btop++ v.1.4.0
+2025/05/20 (17:46:28) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (17:53:04) | ===> btop++ v.1.4.0
+2025/05/20 (17:53:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:16:25) | ===> btop++ v.1.4.0
+2025/05/20 (18:16:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:16:50) | ===> btop++ v.1.4.0
+2025/05/20 (18:16:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:18:10) | ===> btop++ v.1.4.0
+2025/05/20 (18:18:10) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:18:31) | ===> btop++ v.1.4.0
+2025/05/20 (18:18:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:18:49) | ===> btop++ v.1.4.0
+2025/05/20 (18:18:49) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:23:41) | ===> btop++ v.1.4.0
+2025/05/20 (18:23:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:23:43) | ===> btop++ v.1.4.0
+2025/05/20 (18:23:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:23:46) | ===> btop++ v.1.4.0
+2025/05/20 (18:23:46) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:23:50) | ===> btop++ v.1.4.0
+2025/05/20 (18:23:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:23:51) | ===> btop++ v.1.4.0
+2025/05/20 (18:23:51) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:23:54) | ===> btop++ v.1.4.0
+2025/05/20 (18:23:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:27:25) | ===> btop++ v.1.4.0
+2025/05/20 (18:27:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:29:05) | ===> btop++ v.1.4.0
+2025/05/20 (18:29:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (18:58:07) | ===> btop++ v.1.4.0
+2025/05/20 (18:58:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (19:20:34) | ===> btop++ v.1.4.0
+2025/05/20 (19:20:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/20 (23:56:23) | ===> btop++ v.1.4.0
+2025/05/20 (23:56:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (00:20:02) | ===> btop++ v.1.4.0
+2025/05/21 (00:20:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (01:03:23) | ===> btop++ v.1.4.0
+2025/05/21 (01:03:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (01:12:33) | ===> btop++ v.1.4.0
+2025/05/21 (01:12:33) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (01:12:48) | ===> btop++ v.1.4.0
+2025/05/21 (01:12:48) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (01:13:02) | ===> btop++ v.1.4.0
+2025/05/21 (01:13:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (01:21:33) | ===> btop++ v.1.4.0
+2025/05/21 (01:21:33) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (02:21:12) | ===> btop++ v.1.4.0
+2025/05/21 (02:21:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (02:24:16) | ===> btop++ v.1.4.0
+2025/05/21 (02:24:16) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (03:52:39) | ===> btop++ v.1.4.0
+2025/05/21 (03:52:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/21 (23:14:50) | ===> btop++ v.1.4.0
+2025/05/21 (23:14:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/22 (14:43:44) | ===> btop++ v.1.4.0
+2025/05/22 (14:43:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/22 (15:02:56) | ===> btop++ v.1.4.0
+2025/05/22 (15:02:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/22 (18:57:15) | ===> btop++ v.1.4.0
+2025/05/22 (18:57:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/23 (15:04:22) | ===> btop++ v.1.4.0
+2025/05/23 (15:04:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/27 (18:23:57) | ===> btop++ v.1.4.0
+2025/05/27 (18:23:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/27 (18:27:15) | ===> btop++ v.1.4.0
+2025/05/27 (18:27:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/29 (13:40:04) | ===> btop++ v.1.4.0
+2025/05/29 (13:40:04) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/30 (15:40:57) | ===> btop++ v.1.4.0
+2025/05/30 (15:40:57) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/30 (15:41:03) | ===> btop++ v.1.4.0
+2025/05/30 (15:41:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/30 (15:42:06) | ===> btop++ v.1.4.0
+2025/05/30 (15:42:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/30 (15:43:43) | ===> btop++ v.1.4.0
+2025/05/30 (15:43:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/30 (15:47:06) | ===> btop++ v.1.4.0
+2025/05/30 (15:47:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/30 (15:50:09) | ===> btop++ v.1.4.0
+2025/05/30 (15:50:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/05/30 (15:51:36) | ===> btop++ v.1.4.0
+2025/05/30 (15:51:36) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/03 (18:05:34) | ===> btop++ v.1.4.0
+2025/06/03 (18:05:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/04 (00:36:12) | ===> btop++ v.1.4.0
+2025/06/04 (00:36:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/05 (00:21:41) | ===> btop++ v.1.4.0
+2025/06/05 (00:21:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/05 (14:00:46) | ===> btop++ v.1.4.0
+2025/06/05 (14:00:46) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/06 (12:39:12) | ===> btop++ v.1.4.0
+2025/06/06 (12:39:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/06 (17:33:14) | ===> btop++ v.1.4.0
+2025/06/06 (17:33:14) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/07 (00:19:22) | ===> btop++ v.1.4.0
+2025/06/07 (00:19:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/08 (21:56:55) | ===> btop++ v.1.4.0
+2025/06/08 (21:56:55) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/08 (21:57:23) | ===> btop++ v.1.4.0
+2025/06/08 (21:57:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/08 (21:57:39) | ===> btop++ v.1.4.0
+2025/06/08 (21:57:39) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/10 (01:59:18) | ===> btop++ v.1.4.0
+2025/06/10 (01:59:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/10 (11:18:53) | ===> btop++ v.1.4.0
+2025/06/10 (11:18:53) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/10 (11:28:34) | ===> btop++ v.1.4.0
+2025/06/10 (11:28:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/10 (11:29:12) | ===> btop++ v.1.4.0
+2025/06/10 (11:29:12) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/10 (16:11:29) | ===> btop++ v.1.4.0
+2025/06/10 (16:11:29) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/10 (18:02:00) | ===> btop++ v.1.4.0
+2025/06/10 (18:02:00) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/11 (14:53:11) | ===> btop++ v.1.4.0
+2025/06/11 (14:53:11) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/13 (01:03:33) | ===> btop++ v.1.4.0
+2025/06/13 (01:03:33) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/13 (12:50:25) | ===> btop++ v.1.4.0
+2025/06/13 (12:50:25) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/13 (12:50:34) | ===> btop++ v.1.4.0
+2025/06/13 (12:50:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/13 (15:26:31) | ===> btop++ v.1.4.0
+2025/06/13 (15:26:31) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/14 (14:11:34) | ===> btop++ v.1.4.0
+2025/06/14 (14:11:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (22:10:27) | ===> btop++ v.1.4.0
+2025/06/15 (22:10:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (23:37:33) | ===> btop++ v.1.4.0
+2025/06/15 (23:37:33) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (23:37:54) | ===> btop++ v.1.4.0
+2025/06/15 (23:37:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (23:38:33) | ===> btop++ v.1.4.0
+2025/06/15 (23:38:33) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (23:38:56) | ===> btop++ v.1.4.0
+2025/06/15 (23:38:56) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (23:40:18) | ===> btop++ v.1.4.0
+2025/06/15 (23:40:18) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (23:40:47) | ===> btop++ v.1.4.0
+2025/06/15 (23:40:47) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (23:41:03) | ===> btop++ v.1.4.0
+2025/06/15 (23:41:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (23:41:23) | ===> btop++ v.1.4.0
+2025/06/15 (23:41:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (23:41:44) | ===> btop++ v.1.4.0
+2025/06/15 (23:41:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (23:43:01) | ===> btop++ v.1.4.0
+2025/06/15 (23:43:01) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/16 (13:32:44) | ===> btop++ v.1.4.0
+2025/06/16 (13:32:44) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/17 (12:13:02) | ===> btop++ v.1.4.0
+2025/06/17 (12:13:02) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/17 (12:13:15) | ===> btop++ v.1.4.0
+2025/06/17 (12:13:15) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/20 (13:13:23) | ===> btop++ v.1.4.0
+2025/06/20 (13:13:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/25 (23:39:21) | ===> btop++ v.1.4.0
+2025/06/25 (23:39:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/26 (00:40:41) | ===> btop++ v.1.4.0
+2025/06/26 (00:40:41) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/26 (00:40:43) | ===> btop++ v.1.4.0
+2025/06/26 (00:40:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/26 (11:29:19) | ===> btop++ v.1.4.0
+2025/06/26 (11:29:19) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/27 (15:28:08) | ===> btop++ v.1.4.0
+2025/06/27 (15:28:08) | WARNING: Intel GPU: Failed to initialize PMU
