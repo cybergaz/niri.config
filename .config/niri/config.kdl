@@ -6,6 +6,9 @@
 // ----------------------------------
 //  Exec on Startup
 // ----------------------------------
+spawn-at-startup "waybar"
+spawn-at-startup "mako"
+spawn-at-startup "xwayland-satellite"
 spawn-at-startup "sh" "-c" "~/scripts/waybar/wallpapers_v2.sh"
 spawn-at-startup "pkill" "iwgtk"
 spawn-at-startup "wl-paste" "--watch" "cliphist" "store"
@@ -22,7 +25,7 @@ prefer-no-csd
 //  OVERRIDE Environment Variables
 // ----------------------------------
 environment {
-    PATH "/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin:/home/gaz/.cargo/bin:/home/gaz/.local/bin:/home/gaz/.bun/bin:/home/gaz/.local/share/nvim/mason/bin"
+    // PATH "/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin:/home/gaz/.cargo/bin:/home/gaz/.local/bin:/home/gaz/.bun/bin:/home/gaz/.local/share/nvim/mason/bin"
     DISPLAY ":0"
     ELECTRON_OZONE_PLATFORM_HINT "auto"
     // XDG_CURRENT_DESKTOP "niri"
@@ -393,7 +396,8 @@ binds {
     Mod+Shift+M                 repeat=false    { quit; }
     // Mod+Shift+P { power-off-monitors; }
 
-    Mod+Shift+Return             repeat=true     { spawn "sh" "-c" "alacritty --config-file ~/.config/alacritty/alacritty2.toml -t alacritty_float"; }
+    Mod+Shift+Return            repeat=true     { spawn "sh" "-c" "alacritty -t alacritty_float"; }
+    Mod+T                       repeat=true     { spawn "sh" "-c" "alacritty -t alacritty_float"; }
     Mod+Return                  repeat=false    { spawn "alacritty"; }
     Mod+Space                   repeat=false    { spawn "sh" "-c" "pkill wofi || wofi"; }
     Mod+i                       repeat=false    { spawn "sh" "-c" "pkill wofi || ~/scripts/wofi_clipboard.sh"; }
@@ -403,8 +407,8 @@ binds {
     Super+P                     repeat=false    { spawn "~/scripts/wofi_logout_niri.sh"; }
     Super+E                     repeat=false    { spawn "nemo" "/home/gaz/Downloads"; }
     Super+Shift+E               repeat=false    { spawn "nemo" "/home/gaz/Desktop/workspace/webd/"; }
-    Super+W                     repeat=false    { spawn "zen-browser"; }
-    Super+Shift+W               repeat=false    { spawn "zen-browser" "--private-window"; }
+    Super+W                     repeat=false    { spawn "firefox"; }
+    Super+Shift+W               repeat=false    { spawn "firefox" "--private-window"; }
     Super+N                     repeat=false    { spawn "sh" "-c" "pkill iwgtk || iwgtk"; }
     Super+Escape                repeat=false    { spawn "sh" "-c" "pkill btop || alacritty -t btop -e btop"; }
     Super+B                     repeat=false    { spawn "sh" "-c" "~/scripts/bluetooth_particular.sh"; }

@@ -61,6 +61,12 @@ if status is-interactive
     alias ariac='aria2c -s 32 -x 16 -c'
     alias zad='cd $HOME/Downloads/ ; aria2c -s 16 -x 8 -c'
 
+    alias nixc='sudo -E nvim /etc/nixos/configuration.nix'
+    alias nixr='sudo nixos-rebuild switch'
+    alias nixg='sudo nix-collect-garbage -d'
+    alias nixf='nix search nixpkgs'
+    alias nixs='nix-store --query --requisites /run/current-system | rg'
+
     alias lokate="sudo updatedb && sudo locate"
     alias piper-play="piper-tts --model $HOME/.local/en_US-hfc_female-medium.onnx --output_file /tmp/temp_piper_audio.wav && mpv /tmp/temp_piper_audio.wav"
 
@@ -137,7 +143,7 @@ if status is-interactive
 
         set user (whoami)
 
-        echo "$(random choice "...:: welcome back sir ::..." "..:: hi $user , welcome, once again ::.." "..:: $gt $user , what do you have for me  ::.." "...:: here you go ::..." "Hello $user..::..How are you?" "..:: on your demand boss ::.." "..:: ready to receive commands sir ::.." "...:: hello $user , $gt ::..." "..:: $gt sir ::.." "..:: ready for action as always ::.." "..:: Hungry for commands boss ::.." "..:: $gt $user , what's next?" "..:: nice to see you again $user ::..." "..:: $gt $user , how are you ::.." "..:: welcome back sir ::.." "..:: what do you want ::.." "..:: just type it ::.." "..:: give me a command already ::.." "..:: what do you want this time huh ? ::.." "..:: at your service sir ::.." "..:: $gt sir , long time no see ! ::..")   ( you have $(wc -l $HOME/.tasks | awk '{ print $1 }') tasks pending ) "| lolcat
+        echo "$(random choice "...:: welcome back sir ::..." "..:: hi $user , welcome, once again ::.." "..:: $gt $user , what do you have for me  ::.." "...:: here you go ::..." "Hello $user..::..How are you?" "..:: on your demand boss ::.." "..:: ready to receive commands sir ::.." "...:: hello $user , $gt ::..." "..:: $gt sir ::.." "..:: ready for action as always ::.." "..:: Hungry for commands boss ::.." "..:: $gt $user , what's next?" "..:: nice to see you again $user ::..." "..:: $gt $user , how are you ::.." "..:: welcome back sir ::.." "..:: what do you want ::.." "..:: just type it ::.." "..:: give me a command already ::.." "..:: what do you want this time huh ? ::.." "..:: at your service sir ::.." "..:: $gt sir , long time no see ! ::..") "| lolcrab -s 0.016
         # echo "{ you have $(wc -l $HOME/.tasks | awk '{ print $1 }') tasks pending }"
 
         # echo $li[(math (random) % (count $li))] | lolcat
