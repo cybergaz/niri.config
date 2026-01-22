@@ -70,7 +70,7 @@
   "custom/player": {
     "interval": 5,
     "exec": "~/scripts/waybar/waybar_now_playing",
-    "format": "    {}",
+    "format": "♪    {}",
     "return-type": "json",
     "max-length": 30,
     "on-click": "~/scripts/waybar/waybar_now_playing play-pause",
@@ -104,7 +104,7 @@
     "tooltip": false,
     // "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
     "on-click": "$HOME/scripts/waybar/wallpapers_v2.sh",
-    "on-click-right": "alacritty -T fast -e fast"
+    "on-click-right": "$HOME/scripts/swayidle_caffeine.sh"
   },
   "tray": {
     "icon-size": 16,

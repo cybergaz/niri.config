@@ -23,7 +23,8 @@ white = "#cdd6f4"
 yellow = "#f09383"
 
 [colors.primary]
-background = "#04080c"
+# background = "#04080c"
+background = "#080a0d"
 foreground = "#d0e0f0"
 
 [colors.vi_mode_cursor]

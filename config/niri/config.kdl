@@ -1,4 +1,3 @@
-
 //  █▀▀ ▄▀█ ▀█    █▄░█ █ █▀█ █    █▀▀ █▀█ █▄░█ █▀▀ █ █▀▀
 //  █▄█ █▀█ █▄    █░▀█ █ █▀▄ █    █▄▄ █▄█ █░▀█ █▀░ █ █▄█
 // ______________________________________________________
@@ -16,6 +15,7 @@ spawn-at-startup "sh" "-c" "~/scripts/delete_cliphist.sh"
 spawn-at-startup "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
 spawn-at-startup "sh" "-c" "dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP"
 spawn-at-startup "sh" "-c" "~/scripts/hyprland/battery_notify.sh"
+spawn-sh-at-startup "~/scripts/swayidle.sh"
 
 //  client side rendering
 // ----------------------------------
@@ -31,21 +31,34 @@ environment {
     // XDG_CURRENT_DESKTOP "niri"
 }
 
-screenshot-path "~/Pictures/Screenshots/%Y-%m-%d %H-%M-%S.png"
-
-cursor {
-    xcursor-theme "LyraB"
-    xcursor-size 24
-    hide-when-typing
-    hide-after-inactive-ms 2000
+// You can configure outputs by their name, which you can find by running `niri msg outputs` while inside a niri instance.
+output "eDP-1" {
+    // off
+    scale 1.0
+    // normal, 90, 180, 270, flipped, flipped-90, flipped-180 and flipped-270.
+    transform "normal"
+    mode "1920x1080@59.999"
+    // position x=1920 y=0
+    background-color "transparent"
 }
 
+output "HDMI-A-1" {
+    // off
+    scale 1.0
+    // normal, 90, 180, 270, flipped, flipped-90, flipped-180 and flipped-270.
+    transform "normal"
+    mode "1920x1080@60.000"
+    position x=1920 y=0
+    background-color "transparent"
+}
+
+
 overview {
-    zoom 0.35
-    backdrop-color "#01090e"
+    zoom 0.25
+    backdrop-color "transparent"
 
     workspace-shadow {
-        // off
+        off
         softness 40
         spread 10
         offset x=0 y=10
@@ -53,11 +66,42 @@ overview {
     }
 }
 
-hotkey-overlay {
-    skip-at-startup
+recent-windows {
+    // off
+    debounce-ms 750
+
+    open-delay-ms 150
+
+    highlight {
+        active-color "#ffffff60"
+        urgent-color "#ff9999ff"
+        padding 12
+        corner-radius 8
+    }
+
+    previews {
+        max-height 100
+        max-scale 0.75
+    }
+
+    binds {
+        Mod+Semicolon         { next-window scope="all"; } // all, output, workspace
+        // Mod+Shift+Tab   { previous-window; }
+        Mod+Shift+Semicolon   { next-window filter="app-id"; }
+        // Mod+Shift+grave { previous-window filter="app-id"; }
+    }
 }
 
 
+cursor {
+    xcursor-theme "LyraB-cursors"
+    xcursor-size 24
+    hide-when-typing
+    hide-after-inactive-ms 2000
+}
+
+screenshot-path "~/Pictures/Screenshots/%Y-%m-%d %H-%M-%S.png"
+hotkey-overlay { skip-at-startup; }
 
 
 // ----------------------------------
@@ -67,8 +111,8 @@ input {
     keyboard {
         xkb {
             // remapping keys (for complete list of options run 'xkbcli list')
-            // options "caps:escape,altwin:swap_lalt_lwin,ctrl:swap_ralt_rctl"
-            options "caps:escape"
+            options "caps:escape,altwin:swap_lalt_lwin,ctrl:swap_ralt_rctl"
+            // options "caps:escape"
         }
 
         repeat-delay 180
@@ -81,7 +125,7 @@ input {
     }
 
     touchpad {
-        off
+        // off
         tap
         dwt
         natural-scroll
@@ -94,7 +138,6 @@ input {
         // disabled-on-external-mouse
         // middle-emulation
     }
-
 
     mouse {
         // off
@@ -117,18 +160,6 @@ input {
     workspace-auto-back-and-forth
 }
 
-// You can configure outputs by their name, which you can find by running `niri msg outputs` while inside a niri instance.
-output "eDP-1" {
-    // off
-    scale 1.0
-    // normal, 90, 180, 270, flipped, flipped-90, flipped-180 and flipped-270.
-    transform "normal"
-    mode "1920x1080@59.999"
-    position x=1280 y=0
-    background-color "#000000"
-}
-
-
 
 
 // ----------------------------------
@@ -139,7 +170,7 @@ layout {
     background-color "transparent"
     center-focused-column "never"
     always-center-single-column
-    default-column-width { proportion 0.85; }
+    default-column-width { proportion 1.0; }
     // default-column-width { }
     // values for "switch-preset-column-width" (Mod+R).
     preset-column-widths {
@@ -152,15 +183,15 @@ layout {
 
     focus-ring {
         // off
-        width 2
-        active-color "#6a6a6a"
-        // inactive-color "#505050"
-        // active-gradient from="#000022" to="#80c8ff" angle=45
+        width 1
+        active-color "#ffffff20"
+        inactive-color "#000000"
+        // active-gradient from="#9a9a9a" to="#74bfe2" angle=130 relative-to="workspace-view"
         // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
     }
 
     border {
-        // off
+        off
         width 1
         active-color "#00000000"
         inactive-color "#00000000"
@@ -175,9 +206,13 @@ layout {
         bottom 12
     }
 
+    insert-hint {
+        // off
+        color "#ffffff30"
+        // gradient from="#ffffff30" to="#1e80e830" angle=45 relative-to="workspace-view"
+    }
+
 }
-
-
 
 
 // ----------------------------------
@@ -185,31 +220,28 @@ layout {
 // ----------------------------------
 animations {
     // off
-    // slowdown 3.0
+    slowdown 0.4
 
     workspace-switch {
         // off
         // spring damping-ratio=0.85 stiffness=600 epsilon=0.0001
         // duration-ms 300
         // curve "ease-out-expo"
-        spring damping-ratio=1.0 stiffness=800 epsilon=0.0001
+        spring damping-ratio=1.0 stiffness=300 epsilon=0.0001
     }
 
     horizontal-view-movement {
         // off
-        // spring damping-ratio=0.85 stiffness=600 epsilon=0.0001
-        // curve "ease-out-cubic"
-        // duration-ms 300
-        // curve "ease-out-expo"
-        spring damping-ratio=1.0 stiffness=800 epsilon=0.0001
+        // spring damping-ratio=0.80 stiffness=200 epsilon=0.0001
+        spring damping-ratio=1.0 stiffness=200 epsilon=0.0001
     }
 
     // Window opening animation. Note that this one has different defaults.
     window-open {
         // off
-        // duration-ms 200
-        // curve "ease-out-expo"
-        spring damping-ratio=1.0 stiffness=800 epsilon=0.0001
+        duration-ms 400
+        curve "cubic-bezier" 0.05 0.7 0.1 1
+        // spring damping-ratio=0.75 stiffness=400 epsilon=0.0001
     }
 
      window-close {
@@ -225,9 +257,13 @@ animations {
     }
 
     window-resize {
-        duration-ms 300
-        curve "ease-out-expo"
-        // spring damping-ratio=1.2 stiffness=800 epsilon=0.0001
+        custom-shader r"
+            vec4 resize_color(vec3 coords_curr_geo, vec3 size_curr_geo) {
+                vec3 coords_tex_next = niri_geo_to_tex_next * coords_curr_geo;
+                vec4 color = texture2D(niri_tex_next, coords_tex_next.st);
+                return color;
+            }
+            "
     }
 
     config-notification-open-close {
@@ -255,8 +291,8 @@ window-rule {
     geometry-corner-radius 8
     clip-to-geometry true
     draw-border-with-background false
-    opacity 1.0
-    max-width 1878
+    opacity 0.8
+    // max-width 1880
 
     // example matches :
     // ------------------------------
@@ -309,7 +345,7 @@ window-rule {
 }
 
 window-rule {
-    match app-id="viewnior"
+    match app-id="Viewnior"
     open-floating true
 }
 
@@ -353,6 +389,14 @@ window-rule {
     default-floating-position x=450 y=200 relative-to="top-left"
 }
 
+window-rule {
+    match app-id="org.pulseaudio.pavucontrol"
+    open-floating true
+    min-width 1160
+    min-height 630
+    default-floating-position x=380 y=180 relative-to="top-left"
+}
+
 // layer-rule {
 //     match namespace="notification"
 //     // animation {
@@ -361,14 +405,14 @@ window-rule {
 //     // }
 // }
 
-// layer-rule {
-//     match namespace="swww-daemon"
-//     place-within-backdrop true
-// }
+layer-rule {
+    match namespace="swww-daemon"
+    place-within-backdrop true
+}
 
 layer-rule {
     match namespace="wofi"
-    baba-is-float true
+    baba-is-float false
 }
 // declare workspaces
 // workspace "browser"
@@ -400,21 +444,21 @@ binds {
     Mod+T                       repeat=true     { spawn "sh" "-c" "alacritty -t alacritty_float"; }
     Mod+Return                  repeat=false    { spawn "alacritty"; }
     Mod+Space                   repeat=false    { spawn "sh" "-c" "pkill wofi || wofi"; }
-    Mod+i                       repeat=false    { spawn "sh" "-c" "pkill wofi || ~/scripts/wofi_clipboard.sh"; }
-    Mod+c                       repeat=false    { spawn "sh" "-c" "pkill wofi || ~/scripts/wofi_clipboard.sh"; }
-    Mod+Period                  repeat=false    { spawn "sh" "-c" "pkill wofi || ~/scripts/wofi-emoji.sh"; }
-    Mod+Shift+I                 repeat=false    { spawn "sh" "-c" "pkill wofi || ~/scripts/wofi_socials.sh"; }
-    Super+P                     repeat=false    { spawn "~/scripts/wofi_logout_niri.sh"; }
+    Mod+i                       repeat=false    { spawn "sh" "-c" "pkill wofi || ~/scripts/wofi/clipboard.wofi.sh"; }
+    Mod+Period                  repeat=false    { spawn "sh" "-c" "pkill wofi || ~/scripts/wofi/emoji.wofi.sh"; }
+    Mod+Shift+I                 repeat=false    { spawn "sh" "-c" "pkill wofi || ~/scripts/backtrack_clipboard.sh"; }
+    Super+P                     repeat=false    { spawn "~/scripts/wofi/logout.wofi.sh"; }
     Super+E                     repeat=false    { spawn "nemo" "/home/gaz/Downloads"; }
-    Super+Shift+E               repeat=false    { spawn "nemo" "/home/gaz/Desktop/workspace/webd/"; }
+    Super+Shift+E               repeat=false    { spawn "nemo" "/home/gaz/workspace"; }
     Super+W                     repeat=false    { spawn "firefox"; }
     Super+Shift+W               repeat=false    { spawn "firefox" "--private-window"; }
     Super+N                     repeat=false    { spawn "sh" "-c" "pkill iwgtk || iwgtk"; }
     Super+Escape                repeat=false    { spawn "sh" "-c" "pkill btop || alacritty -t btop -e btop"; }
     Super+B                     repeat=false    { spawn "sh" "-c" "~/scripts/bluetooth_particular.sh"; }
     Super+Ctrl+B                repeat=false    { spawn "sh" "-c" "~/scripts/bluetooth-battery.sh"; }
-    Super+Shift+C               repeat=false    { spawn "sh" "-c" "~/scripts/color-picker.sh"; }
-    Super+Shift+R               repeat=false    { spawn "sh" "-c" "~/scripts/niri/toggle-key-remaps.sh"; }
+    Super+Shift+C               repeat=false    { spawn "sh" "-c" "hyprpicker | tr -d '\n' | wl-copy"; }
+    Super+Shift+R               repeat=false    { spawn "sh" "-c" "~/scripts/niri/toggle-key-remaps.sh && notify-send 'keyboard layout changed'"; }
+    // Super+Shift+P               repeat=false    { spawn "sh" "-c" "~/scripts/restore_project.sh xegality"; }
 
     Print                       repeat=false    { screenshot; }
     Mod+Print                   repeat=false    { screenshot-screen; }
@@ -431,9 +475,11 @@ binds {
 
     Mod+Shift+S                 repeat=true     { consume-window-into-column; }
     Mod+S                       repeat=true     { expel-window-from-column; }
-    Mod+Ctrl+H                   repeat=true     { consume-or-expel-window-left; }
-    Mod+Ctrl+L                   repeat=true     { consume-or-expel-window-right; }
+    Mod+Ctrl+H                  repeat=true     { consume-or-expel-window-left; }
+    Mod+Ctrl+L                  repeat=true     { consume-or-expel-window-right; }
 
+    // Mod+H                       repeat=true     { focus-column-or-monitor-left; }
+    // Mod+L                       repeat=true     { focus-column-or-monitor-right; }
     Mod+H                       repeat=true     { focus-column-left; }
     Mod+L                       repeat=true     { focus-column-right; }
     Mod+J                       repeat=true     { focus-window-or-workspace-down; }
@@ -441,22 +487,30 @@ binds {
     Mod+G                       repeat=true     { focus-window-previous; }
     Mod+Bracketleft             repeat=false    { focus-column-first; }
     Mod+Bracketright            repeat=false    { focus-column-last; }
-    Mod+Semicolon               repeat=true     { switch-focus-between-floating-and-tiling; }
+    Mod+C                       repeat=true     { switch-focus-between-floating-and-tiling; }
     Mod+Shift+N                 repeat=false    { spawn "./scripts/niri/next_empty_workspace.sh";}
 
-    Mod+Shift+H                 repeat=true     { move-column-left; }
-    Mod+Shift+L                 repeat=true     { move-column-right; }
+    // Mod+Shift+H              repeat=true     { move-column-left-or-to-monitor-left; }
+    // Mod+Shift+L              repeat=true     { move-column-right-or-to-monitor-right; }
+    Mod+Shift+H                 repeat=true     { move-column-left-or-to-monitor-left; }
+    Mod+Shift+L                 repeat=true     { move-column-right-or-to-monitor-right; }
     mod+Shift+J                 repeat=true     { move-window-down-or-to-workspace-down; }
     mod+Shift+K                 repeat=true     { move-window-up-or-to-workspace-up; }
     Mod+Shift+Bracketright      repeat=false    { move-column-to-last; }
     Mod+Shift+Bracketleft       repeat=false    { move-column-to-first; }
     Mod+Shift+D                 repeat=false    { move-workspace-down; }
     Mod+Shift+U                 repeat=false    { move-workspace-up; }
+    Mod+Shift+Left              repeat=false    { move-workspace-to-monitor-next; }
+    Mod+Shift+Right             repeat=false    { move-workspace-to-monitor-previous; }
+    Mod+Shift+Up                repeat=false    { move-workspace-up; }
+    Mod+Shift+Down              repeat=false    { move-workspace-down; }
+    Mod+Tab                     repeat=false    { focus-monitor-next; }
+    Mod+Shift+Tab               repeat=false    { focus-monitor-previous; }
 
-    Mod+Alt+H                  repeat=true     { set-column-width "-2.5%"; }
-    Mod+Alt+L                  repeat=true     { set-column-width "+2.5%"; }
-    Mod+Alt+K                  repeat=true     { set-window-height "-3%"; }
-    Mod+Alt+J                  repeat=true     { set-window-height "+3%"; }
+    Mod+Alt+H                   repeat=true     { set-column-width "-2.5%"; }
+    Mod+Alt+L                   repeat=true     { set-column-width "+2.5%"; }
+    Mod+Alt+K                   repeat=true     { set-window-height "-3%"; }
+    Mod+Alt+J                   repeat=true     { set-window-height "+3%"; }
 
     Mod+Left                    repeat=true     { focus-column-left; }
     Mod+Right                   repeat=true     { focus-column-right; }
@@ -485,14 +539,22 @@ binds {
     Mod+Shift+0                 repeat=false    { move-window-to-workspace 10; }
 
     // Example volume keys mappings for PipeWire & WirePlumber.
-    XF86AudioRaiseVolume        { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.05+"; }
-    SHIFT+F7                    { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.05"; }
-    XF86AudioLowerVolume        { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "0.05-"; }
-    SHIFT+F8                    { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "1"; }
+    XF86AudioRaiseVolume        { spawn "wpctl" "set-volume" "-l" "2.0" "@DEFAULT_AUDIO_SINK@" "5%+"; }
+    SHIFT+F7                    { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "5%"; }
+    SHIFT+F4                    { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "5%"; }
+    XF86AudioLowerVolume        { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "5%-"; }
+    SHIFT+F8                    { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "100%"; }
+    SHIFT+F5                    { spawn "wpctl" "set-volume" "@DEFAULT_AUDIO_SINK@" "100%"; }
+    XF86AudioMute               { spawn "wpctl" "set-mute" "@DEFAULT_AUDIO_SINK@" "toggle"; }
+
+    SHIFT+XF86AudioRaiseVolume  { spawn "brightnessctl" "set" "5%+"; }
+    SHIFT+XF86AudioLowerVolume  { spawn "brightnessctl" "set" "5%-"; }
     XF86MonBrightnessDown       { spawn "brightnessctl" "set" "5%-"; }
-    SHIFT+F2                    { spawn "brightnessctl" "set" "2"; }
     XF86MonBrightnessUp         { spawn "brightnessctl" "set" "5%+"; }
+    SHIFT+F2                    { spawn "brightnessctl" "set" "1"; }
     SHIFT+F3                    { spawn "brightnessctl" "set" "100%"; }
+
+    XF86PowerOff                { spawn "notify-send" "poweroff"; }
 
 
     // temp binds
