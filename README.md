@@ -1,6 +1,10 @@
+<div align=center>
+
 # niri.config
 
-My personal dotfiles for a Wayland desktop built around [niri](https://github.com/niri-wm/niri) — a scrollable tiling compositor. Running on NixOS; the system-level configuration lives at [cybergaz/nixos.config](https://github.com/cybergaz/nixos.config).
+Personal dotfiles for [niri](https://github.com/niri-wm/niri) — a scrollable tiling compositor. Running on NixOS; the system-level configuration lives at [cybergaz/nixos.config](https://github.com/cybergaz/nixos.config).
+
+</div>
 
 ---
 
@@ -21,7 +25,7 @@ My personal dotfiles for a Wayland desktop built around [niri](https://github.co
 
 ## Scripts
 
-Works best with my own scripts for various tasks, which lives at [cybergaz/scripts](https://github.com/cybergaz/scripts)
+Works best with my own set of scripts, which lives at [cybergaz/scripts](https://github.com/cybergaz/scripts)
 
 
 ## Usage
