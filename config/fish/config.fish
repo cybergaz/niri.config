@@ -71,35 +71,36 @@ if status is-interactive
     alias hyper="nvim ~/.config/hypr/hyprland.conf"
     alias niric="nvim ~/.config/niri/config.kdl"
 
-    # system & package managers
-    alias rat='rate-mirrors --allow-root arch | sudo tee /etc/pacman.d/mirrorlist'
-    alias yin='yay -S --answerclean All --answerdiff None --answeredit None'
-    alias yun='yay -R'
+    # system
+    # alias rat='rate-mirrors --allow-root arch | sudo tee /etc/pacman.d/mirrorlist'
+    # alias yin='yay -S --answerclean All --answerdiff None --answeredit None'
+    # alias yun='yay -R'
     alias ariad='aria2c -s 32 -x 16'
     alias ariac='aria2c -s 32 -x 16 -c'
     alias zad='cd $HOME/Downloads/ ; aria2c -s 16 -x 8 -c'
-    alias fast='fast -u'
+    alias ff='fastfetch --logo nixos_old'
 
     # nixos
-    alias nixc='nvim /etc/nixos/configuration.nix'
+    alias nixc='cd /home/gaz/nixos-config && nvim'
     alias nixi='nvim /etc/nixos/packages.nix'
-    alias nixr='sudo nixos-rebuild switch'
+    alias nixr='sudo nixos-rebuild switch --flake ~/nixos-config#cybergaz'
     alias nixu='sudo nix flake update --flake ~/nixos-config && sudo nixos-rebuild switch --upgrade'
     alias nixg='sudo nix-collect-garbage -d'
     alias nixs='nix search nixpkgs'
     alias nixf='nix-store --query --requisites /run/current-system | rg'
     alias nixsh='nix-shell --command fish -p'
+    alias dev='nix develop'
     
 
     # network
     alias ns="iwctl station $(iwctl device list | tail -n +5 | awk '{ print($2) }') scan on ; iwctl station $(iwctl device list | tail -n +5 | awk '{ print($2) }') get-networks"
     alias nc="iwctl station $(iwctl device list | tail -n +5 | awk '{ print($2) }') connect"
     alias ndev="iwctl device $(iwctl device list | tail -n +5 | awk '{ print($2) }') set-property Powered"
-    alias warpon="sh $HOME/scripts/warp.start.sh"
-    alias warpoff="sh $HOME/scripts/warp.stop.sh"
-    alias fftp="sh $HOME/scripts/ftp_servers_bruteforce.sh"
-    alias audio-source="fish $HOME/scripts/wofi/audio-source.wofi.sh"
-    alias audio-sink="fish $HOME/scripts/wofi/audio-sink.wofi.sh"
+    alias warpon="warp-cli connect"
+    alias warpoff="warp-cli disconnect"
+    alias fftp="sh $HOME/scripts/temp/ftp-picker.sh"
+    alias asource="fish $HOME/scripts/wofi/audio-source.wofi.sh"
+    alias asink="fish $HOME/scripts/wofi/audio-sink.wofi.sh"
 
     # bluetooth & brightness
     alias budsbattery='echo "$(bluetoothctl info | grep "Name:" | cut -b 8-)  ->  $(bluetoothctl info | grep "Battery" | sed "s/.*(\([0-9]\+\))/\1/") %"'
@@ -109,8 +110,8 @@ if status is-interactive
 
     # misc
     alias diskmount="sh $HOME/scripts/mount-drives.sh"
-    alias lokate="sudo updatedb && sudo locate"
-    alias piper-play="piper-tts --model $HOME/.local/en_US-hfc_female-medium.onnx --output_file /tmp/temp_piper_audio.wav && mpv /tmp/temp_piper_audio.wav"
+    # alias lokate="sudo updatedb && sudo locate"
+    # alias piper-play="piper-tts --model $HOME/.local/en_US-hfc_female-medium.onnx --output_file /tmp/temp_piper_audio.wav && mpv /tmp/temp_piper_audio.wav"
     function count-file
         set dir (test -n "$argv[1]"; and echo "$argv[1]"; or echo ".")
         find $dir -type f -printf '.' | wc -c
@@ -127,17 +128,6 @@ if status is-interactive
         find $dir -type f -name "*.$ext" -print0 | xargs -0 cat | wc -l
     end
 
-    # tasks
-    alias lstsk="sh $HOME/scripts/tasks.sh"
-    alias etsk="nv $HOME/.tasks"
-    function rmtsk
-        sed -i "$argv[1]d" $HOME/.tasks
-    end
-    function addtsk
-        echo "$argv[1]" >> $HOME/.tasks
-    end
-
-
     # ..................git aliases.......................
     # alias gittoken="cat $HOME/Desktop/workspace/my_token | wl-copy -n"
     alias gcl="git clone"
@@ -148,15 +138,14 @@ if status is-interactive
     alias gpl="git pull"
     alias gst="git status"
     alias gck="git checkout"
+    alias gbr="git branch"
     alias gsw="git switch"
     alias gm="git merge"
     alias gl="git log --all --graph --decorate"
     alias gll="git log --all --graph --oneline --decorate"
-    function gacp
-        git add .
-        git commit -m $argv[1]
-        git push
-    end
+    alias gwa="git worktree add"
+    alias gwl="git worktree list"
+    alias gwr="git worktree remove"
 
 
     # multiple cd using dots
@@ -191,8 +180,8 @@ if status is-interactive
     # keybinds
     # ---------------------------------------------------
     bind ctrl-l 'accept-autosuggestion'
-    bind ctrl-j 'history-search-forward'
     bind ctrl-k 'history-search-backward'
+    bind ctrl-j 'history-search-forward'
 
 end
 

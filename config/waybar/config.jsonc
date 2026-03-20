@@ -20,10 +20,10 @@
     "clock"
   ],
   "modules-right": [
-    "tray",
     // "bluetooth",
-    // "idle_inhibitor",
     "network",
+    "tray",
+    "idle_inhibitor",
     "cpu",
     // "temperature",
     "memory",
@@ -104,7 +104,7 @@
     "tooltip": false,
     // "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
     "on-click": "$HOME/scripts/waybar/wallpapers_v2.sh",
-    "on-click-right": "$HOME/scripts/swayidle_caffeine.sh"
+    // "on-click-right": "$HOME/scripts/swayidle_caffeine.sh"
   },
   "tray": {
     "icon-size": 16,
@@ -112,7 +112,7 @@
   },
   "idle_inhibitor": {
     "format": "{icon}",
-    "on-click": "$HOME/scripts/hyprland/hypridle_caffeine.sh",
+    "on-click": "$HOME/scripts/system/swayidle_caffeine.sh",
     "format-icons": {
       "activated": " ☕ ",
       "deactivated": " ☕ "
@@ -124,7 +124,7 @@
     "format-wifi": "    {essid}  :  {bandwidthTotalBytes}",
     "format-ethernet": " {essid}",
     "format-linked": "{ifname} (No IP) ",
-    "format-disconnected": "! Disconnected",
+    "format-disconnected": "Disconnected !",
     "tooltip-format-wifi": "{signalStrength}% | ⬇ {bandwidthDownBits} ⬆ {bandwidthUpBits} | {ipaddr}/{cidr}",
     // "on-click": "alacritty -t nmtui -e nmtui",
     "on-click": "iwgtk",

@@ -1,7 +1,0 @@
-[2025-05-30 20:41:32.554] [info] Using configuration file /home/gaz/.config/waybar/config.jsonc
-[2025-05-30 20:41:32.557] [info] Using CSS file /home/gaz/.config/waybar/style.css
-basic_string::_M_create
-[2025-05-30 20:41:32.562] [warning] module hyprland/workspaces: Disabling module "hyprland/workspaces", Hyprland IPC: HYPRLAND_INSTANCE_SIGNATURE was not set! (Is Hyprland running?)
-[2025-05-30 20:41:32.562] [warning] Hyprland is not running, Hyprland IPC will not be available.
-[2025-05-30 20:41:32.562] [info] Niri IPC starting
-[2025-05-30 20:41:32.816] [info] Bar configured (width: 1700, height: 36) for output: eDP-1
